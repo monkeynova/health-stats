@@ -1,0 +1,167 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "reps" : 40,
+               "date" : 1383926464990,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Push ups"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 7,
+               "date" : 1383926524328,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (wide)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 6,
+               "date" : 1383926603173,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383926679174,
+               "weight" : 120
+            },
+            {
+               "reps" : 12,
+               "date" : 1383926800300,
+               "weight" : 120
+            },
+            {
+               "reps" : 10,
+               "date" : 1383926887191,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral d.y. row"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383926971146,
+               "weight" : 90
+            },
+            {
+               "reps" : 9,
+               "date" : 1383927096889,
+               "weight" : 90
+            },
+            {
+               "reps" : 5,
+               "date" : 1383927173684,
+               "weight" : 90
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral bench press"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383927286981,
+               "weight" : 100
+            },
+            {
+               "reps" : 12,
+               "date" : 1383927373635,
+               "weight" : 100
+            },
+            {
+               "reps" : 12,
+               "date" : 1383927460915,
+               "weight" : 100
+            }
+         ],
+         "unit" : 1,
+         "label" : "Ab machine"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383927543156,
+               "weight" : 45
+            },
+            {
+               "reps" : 6,
+               "date" : 1383927622087,
+               "weight" : 45
+            },
+            {
+               "reps" : 8,
+               "date" : 1383927707519,
+               "weight" : 60
+            }
+         ],
+         "unit" : 1,
+         "label" : "Tricep dip (assisted)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383927713053,
+               "weight" : 120
+            },
+            {
+               "reps" : 10,
+               "date" : 1383927852236,
+               "weight" : 120
+            },
+            {
+               "reps" : 8,
+               "date" : 1383927931979,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383928020172,
+               "weight" : 90
+            },
+            {
+               "reps" : 9,
+               "date" : 1383928094218,
+               "weight" : 90
+            },
+            {
+               "reps" : 5,
+               "date" : 1383928172219,
+               "weight" : 90
+            }
+         ],
+         "unit" : 1,
+         "label" : "Shoulder Press"
+      }
+   ],
+   "end_date" : 1383928172219,
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "start_date" : 1383926462075
+}

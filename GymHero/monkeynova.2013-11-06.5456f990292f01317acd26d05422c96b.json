@@ -1,0 +1,120 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "reps" : 40,
+               "date" : 1383755167744,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Push ups"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 7,
+               "date" : 1383755240426,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (wide)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 5,
+               "date" : 1383755306612,
+               "weight" : null
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383755422589,
+               "weight" : 110
+            },
+            {
+               "reps" : 12,
+               "date" : 1383755506302,
+               "weight" : 110
+            },
+            {
+               "reps" : 12,
+               "date" : 1383755608221,
+               "weight" : 110
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral low row"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383755714214,
+               "weight" : 120
+            },
+            {
+               "reps" : 9,
+               "date" : 1383755789685,
+               "weight" : 120
+            },
+            {
+               "reps" : 5,
+               "date" : 1383755873241,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "Incline chest"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1383755891615,
+               "weight" : 120
+            },
+            {
+               "reps" : 9,
+               "date" : 1383756025880,
+               "weight" : 120
+            },
+            {
+               "reps" : 10,
+               "date" : 1383756118047,
+               "weight" : 110
+            }
+         ],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 10,
+               "date" : 1383756227430,
+               "weight" : 120
+            },
+            {
+               "reps" : 10,
+               "date" : 1383756235238,
+               "weight" : 100
+            }
+         ],
+         "unit" : 1,
+         "label" : "Ab machine"
+      }
+   ],
+   "end_date" : 1383756235238,
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "start_date" : 1383755085175
+}

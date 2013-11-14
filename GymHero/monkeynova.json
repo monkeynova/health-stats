@@ -1,0 +1,188 @@
+{
+   "workouts" : [
+      [
+         "Upper body",
+         "4e5230101fbc01314fd64af1fc3294c4",
+         1382716083804,
+         1382717712955,
+         9,
+         21,
+         241,
+         null,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral d.y. row",
+            "Incline chest",
+            "Vertical traction",
+            "Tricep dip (assisted)",
+            "Ab machine",
+            "Shoulder fly"
+         ]
+      ],
+      [
+         "Upper body",
+         "1f00563023a901315127723acd6fde44",
+         1383147719474,
+         1383149259491,
+         9,
+         20,
+         209,
+         null,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral row",
+            "Incline chest",
+            "Vertical traction",
+            "Shoulder fly",
+            "Tricep dip (assisted)",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "9c601bb0289001316f8e26d05422c96b",
+         1383675312000,
+         1383676212000,
+         1,
+         5,
+         24,
+         360,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "5456f990292f01317acd26d05422c96b",
+         1383755085175,
+         1383756235238,
+         7,
+         14,
+         165,
+         null,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral low row",
+            "Incline chest",
+            "Vertical traction",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "863652702a260131eee20a7391c6b4c3",
+         1383861870823,
+         1383862642772,
+         1,
+         5,
+         18,
+         360,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "5d0bde902abe0131128a0a7391c6b4c3",
+         1383926462075,
+         1383928172219,
+         9,
+         21,
+         231,
+         null,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral d.y. row",
+            "ISO lateral bench press",
+            "Ab machine",
+            "Tricep dip (assisted)",
+            "Vertical traction",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "c9ec33302df3013152ed0a3f57ee2bce",
+         1384279207368,
+         1384280112358,
+         1,
+         5,
+         22,
+         440,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "f8f55a402eaf0131cbb35a131973115f",
+         1384359100418,
+         1384360705928,
+         8,
+         18,
+         185,
+         23715,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "Tricep dip (assisted)",
+            "ISO lateral d.y. row",
+            "ISO lateral super incline press",
+            "Vertical traction",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "742acff02f8701319f9916e46d88ecdd",
+         1384452241927,
+         1384453267165,
+         1,
+         5,
+         23,
+         4140,
+         [
+            "Weighted Chin Up"
+         ]
+      ]
+   ],
+   "success" : true,
+   "muscle_groups" : {
+      "Incline bench press" : 2,
+      "Shoulder press" : 4,
+      "Crunches" : 5,
+      "Pull ups" : 1,
+      "Squats" : 6,
+      "Deadlifts" : 3,
+      "Preacher curl" : 1,
+      "Leg extension" : 6,
+      "Bench press" : 2,
+      "Chin ups" : 1,
+      "Barbell curl" : 1,
+      "Seated calf raise" : 6,
+      "Seated rows" : 3,
+      "Dips" : 1,
+      "Flies" : 2,
+      "Lat pull" : 3,
+      "Hammer curl" : 1,
+      "Leg press" : 6,
+      "Butterflies" : 2,
+      "Pushups" : 2,
+      "Sit ups" : 5,
+      "Calf raise" : 6,
+      "Bicep curls" : 1,
+      "Leg curls" : 6,
+      "Shrugs" : 4
+   },
+   "username_literal" : "Monkeynova",
+   "username" : "monkeynova"
+}
