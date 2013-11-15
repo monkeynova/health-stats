@@ -1,0 +1,146 @@
+{
+   "start_date" : 1384531692080,
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 38,
+               "date" : 1384531784497
+            }
+         ],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1384531858889,
+               "reps" : 7,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (wide)",
+         "unit" : 1
+      },
+      {
+         "label" : "Chin up (right)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1384531948054,
+               "reps" : 7,
+               "weight" : 160
+            }
+         ]
+      },
+      {
+         "label" : "Tricep dip (assisted)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 130,
+               "date" : 1384532060142,
+               "reps" : 8
+            },
+            {
+               "weight" : 115,
+               "reps" : 7,
+               "date" : 1384532150112
+            },
+            {
+               "reps" : 9,
+               "date" : 1384532255753,
+               "weight" : 100
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1384532370009,
+               "weight" : 120
+            },
+            {
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1384532472407
+            },
+            {
+               "weight" : 120,
+               "reps" : 10,
+               "date" : 1384532544727
+            }
+         ],
+         "label" : "ISO lateral low row",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1384532699315,
+               "weight" : 90
+            },
+            {
+               "date" : 1384532917456,
+               "reps" : 7,
+               "weight" : 90
+            },
+            {
+               "date" : 1384532922556,
+               "reps" : 9,
+               "weight" : 70
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1384533057810,
+               "weight" : 130
+            },
+            {
+               "reps" : 12,
+               "date" : 1384533157368,
+               "weight" : 160
+            },
+            {
+               "date" : 1384533248344,
+               "reps" : 8,
+               "weight" : 160
+            }
+         ],
+         "label" : "ISO lateral high row",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1384533443222,
+               "reps" : 12,
+               "weight" : 100
+            },
+            {
+               "weight" : 80,
+               "reps" : 12,
+               "date" : 1384533447925
+            },
+            {
+               "weight" : 90,
+               "date" : 1384533538093,
+               "reps" : 11
+            }
+         ],
+         "label" : "Total abdominal",
+         "unit" : 1
+      }
+   ],
+   "end_date" : 1384533538093,
+   "fb_user" : "588163239"
+}
