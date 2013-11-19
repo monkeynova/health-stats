@@ -1,22 +1,25 @@
 {
+   "start_date" : 1383147719474,
+   "label" : "Upper body",
+   "end_date" : 1383149259491,
    "exercises" : [
       {
+         "label" : "Push ups",
          "sets" : [
             {
+               "weight" : 160,
                "reps" : 40,
-               "date" : 1383147726044,
-               "weight" : null
+               "date" : 1384634908728
             }
          ],
-         "unit" : 1,
-         "label" : "Push ups"
+         "unit" : 1
       },
       {
          "sets" : [
             {
-               "reps" : 8,
-               "date" : 1383147785382,
-               "weight" : null
+               "date" : 1384634920426,
+               "weight" : 160,
+               "reps" : 8
             }
          ],
          "unit" : 1,
@@ -25,114 +28,114 @@
       {
          "sets" : [
             {
+               "date" : 1384634930759,
                "reps" : 5,
-               "date" : 1383147859035,
-               "weight" : null
+               "weight" : 160
             }
          ],
          "unit" : 1,
          "label" : "Chin up (right)"
       },
       {
+         "unit" : 1,
          "sets" : [
             {
+               "weight" : 140,
                "reps" : 6,
-               "date" : 1383148041952,
-               "weight" : 140
+               "date" : 1383148041952
             },
             {
-               "reps" : 8,
                "date" : 1383148049530,
-               "weight" : 110
+               "weight" : 110,
+               "reps" : 8
             },
             {
                "reps" : 8,
-               "date" : 1383148118349,
-               "weight" : 110
+               "weight" : 110,
+               "date" : 1383148118349
             }
          ],
-         "unit" : 1,
          "label" : "ISO lateral row"
       },
       {
+         "unit" : 1,
          "sets" : [
             {
                "reps" : 12,
-               "date" : 1383148241086,
-               "weight" : 105
+               "weight" : 105,
+               "date" : 1383148241086
             },
             {
-               "reps" : 12,
                "date" : 1383148314299,
+               "reps" : 12,
                "weight" : 105
             },
             {
-               "reps" : 7,
                "date" : 1383148396243,
-               "weight" : 105
+               "weight" : 105,
+               "reps" : 7
             }
          ],
-         "unit" : 1,
          "label" : "Incline chest"
       },
       {
+         "unit" : 1,
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383148481920,
-               "weight" : 120
+               "weight" : 120,
+               "reps" : 12
             },
             {
                "reps" : 8,
-               "date" : 1383148553722,
-               "weight" : 110
+               "weight" : 110,
+               "date" : 1383148553722
             },
             {
-               "reps" : 7,
                "date" : 1383148631088,
-               "weight" : 110
+               "weight" : 110,
+               "reps" : 7
             }
          ],
-         "unit" : 1,
          "label" : "Vertical traction"
       },
       {
+         "unit" : 1,
          "sets" : [
             {
                "reps" : 12,
-               "date" : 1383148716415,
-               "weight" : 45
+               "weight" : 45,
+               "date" : 1383148716415
             },
             {
                "reps" : 12,
-               "date" : 1383148718445,
-               "weight" : 45
+               "weight" : 45,
+               "date" : 1383148718445
             },
             {
+               "weight" : 45,
                "reps" : 8,
-               "date" : 1383148855018,
-               "weight" : 45
+               "date" : 1383148855018
             }
          ],
-         "unit" : 1,
          "label" : "Shoulder fly"
       },
       {
          "sets" : [
             {
                "reps" : 8,
-               "date" : 1383148933804,
-               "weight" : 45
+               "weight" : 115,
+               "date" : 1384634955660
             },
             {
+               "date" : 1384634949259,
                "reps" : 6,
-               "date" : 1383149003053,
-               "weight" : 45
+               "weight" : 115
             },
             {
-               "reps" : 8,
-               "date" : 1383149092197,
-               "weight" : 60
+               "date" : 1384634943677,
+               "weight" : 100,
+               "reps" : 8
             }
          ],
          "unit" : 1,
@@ -141,13 +144,13 @@
       {
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383149257158,
+               "reps" : 12,
                "weight" : 120
             },
             {
-               "reps" : 10,
                "date" : 1383149259491,
+               "reps" : 10,
                "weight" : 120
             }
          ],
@@ -155,8 +158,5 @@
          "label" : "Ab machine"
       }
    ],
-   "end_date" : 1383149259491,
-   "fb_user" : "588163239",
-   "label" : "Upper body",
-   "start_date" : 1383147719474
+   "fb_user" : "588163239"
 }

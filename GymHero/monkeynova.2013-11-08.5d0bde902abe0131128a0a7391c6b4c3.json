@@ -1,53 +1,55 @@
 {
+   "start_date" : 1383926462075,
+   "fb_user" : "588163239",
    "exercises" : [
       {
+         "label" : "Push ups",
          "sets" : [
             {
-               "reps" : 40,
-               "date" : 1383926464990,
-               "weight" : null
+               "date" : 1384634884800,
+               "weight" : 160,
+               "reps" : 40
             }
          ],
-         "unit" : 1,
-         "label" : "Push ups"
+         "unit" : 1
       },
       {
+         "unit" : 1,
          "sets" : [
             {
                "reps" : 7,
-               "date" : 1383926524328,
-               "weight" : null
+               "weight" : 160,
+               "date" : 1384376689961
             }
          ],
-         "unit" : 1,
          "label" : "Chin up (wide)"
       },
       {
+         "label" : "Chin up (right)",
+         "unit" : 1,
          "sets" : [
             {
                "reps" : 6,
-               "date" : 1383926603173,
-               "weight" : null
+               "weight" : 160,
+               "date" : 1384376701177
             }
-         ],
-         "unit" : 1,
-         "label" : "Chin up (right)"
+         ]
       },
       {
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383926679174,
-               "weight" : 120
-            },
-            {
                "reps" : 12,
-               "date" : 1383926800300,
                "weight" : 120
             },
             {
-               "reps" : 10,
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1383926800300
+            },
+            {
                "date" : 1383926887191,
+               "reps" : 10,
                "weight" : 120
             }
          ],
@@ -57,19 +59,19 @@
       {
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383926971146,
+               "reps" : 12,
                "weight" : 90
             },
             {
-               "reps" : 9,
                "date" : 1383927096889,
-               "weight" : 90
+               "weight" : 90,
+               "reps" : 9
             },
             {
-               "reps" : 5,
                "date" : 1383927173684,
-               "weight" : 90
+               "weight" : 90,
+               "reps" : 5
             }
          ],
          "unit" : 1,
@@ -78,19 +80,19 @@
       {
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383927286981,
-               "weight" : 100
+               "weight" : 100,
+               "reps" : 12
             },
             {
-               "reps" : 12,
                "date" : 1383927373635,
+               "reps" : 12,
                "weight" : 100
             },
             {
+               "weight" : 100,
                "reps" : 12,
-               "date" : 1383927460915,
-               "weight" : 100
+               "date" : 1383927460915
             }
          ],
          "unit" : 1,
@@ -99,69 +101,67 @@
       {
          "sets" : [
             {
-               "reps" : 12,
-               "date" : 1383927543156,
-               "weight" : 45
+               "date" : 1384376724444,
+               "weight" : 115,
+               "reps" : 12
             },
             {
+               "date" : 1384376719144,
                "reps" : 6,
-               "date" : 1383927622087,
-               "weight" : 45
+               "weight" : 115
             },
             {
                "reps" : 8,
-               "date" : 1383927707519,
-               "weight" : 60
+               "weight" : 100,
+               "date" : 1384376713593
             }
          ],
          "unit" : 1,
          "label" : "Tricep dip (assisted)"
       },
       {
+         "label" : "Vertical traction",
+         "unit" : 1,
          "sets" : [
             {
+               "weight" : 120,
                "reps" : 12,
-               "date" : 1383927713053,
-               "weight" : 120
+               "date" : 1383927713053
             },
             {
                "reps" : 10,
-               "date" : 1383927852236,
-               "weight" : 120
+               "weight" : 120,
+               "date" : 1383927852236
             },
             {
+               "weight" : 120,
                "reps" : 8,
-               "date" : 1383927931979,
-               "weight" : 120
+               "date" : 1383927931979
             }
-         ],
-         "unit" : 1,
-         "label" : "Vertical traction"
+         ]
       },
       {
+         "label" : "Shoulder Press",
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383928020172,
-               "weight" : 90
+               "weight" : 90,
+               "reps" : 12
             },
             {
                "reps" : 9,
-               "date" : 1383928094218,
-               "weight" : 90
+               "weight" : 90,
+               "date" : 1383928094218
             },
             {
-               "reps" : 5,
                "date" : 1383928172219,
+               "reps" : 5,
                "weight" : 90
             }
          ],
-         "unit" : 1,
-         "label" : "Shoulder Press"
+         "unit" : 1
       }
    ],
    "end_date" : 1383928172219,
-   "fb_user" : "588163239",
-   "label" : "Upper body",
-   "start_date" : 1383926462075
+   "label" : "Upper body"
 }

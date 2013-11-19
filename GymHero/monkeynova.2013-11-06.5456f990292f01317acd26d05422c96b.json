@@ -1,120 +1,120 @@
 {
+   "start_date" : 1383755085175,
+   "fb_user" : "588163239",
    "exercises" : [
       {
+         "label" : "Push ups",
          "sets" : [
             {
-               "reps" : 40,
-               "date" : 1383755167744,
-               "weight" : null
+               "date" : 1384634850341,
+               "weight" : 160,
+               "reps" : 40
             }
          ],
-         "unit" : 1,
-         "label" : "Push ups"
+         "unit" : 1
       },
       {
          "sets" : [
             {
                "reps" : 7,
-               "date" : 1383755240426,
-               "weight" : null
+               "weight" : 160,
+               "date" : 1384634859060
             }
          ],
          "unit" : 1,
          "label" : "Chin up (wide)"
       },
       {
+         "label" : "Chin up (right)",
          "sets" : [
             {
-               "reps" : 5,
-               "date" : 1383755306612,
-               "weight" : null
+               "date" : 1384634869875,
+               "weight" : 160,
+               "reps" : 5
             }
          ],
-         "unit" : 1,
-         "label" : "Chin up (right)"
+         "unit" : 1
       },
       {
+         "label" : "ISO lateral low row",
          "sets" : [
             {
+               "weight" : 110,
                "reps" : 12,
-               "date" : 1383755422589,
-               "weight" : 110
+               "date" : 1383755422589
             },
             {
-               "reps" : 12,
                "date" : 1383755506302,
+               "reps" : 12,
                "weight" : 110
             },
             {
-               "reps" : 12,
                "date" : 1383755608221,
-               "weight" : 110
+               "weight" : 110,
+               "reps" : 12
             }
          ],
-         "unit" : 1,
-         "label" : "ISO lateral low row"
+         "unit" : 1
       },
       {
+         "unit" : 1,
          "sets" : [
             {
-               "reps" : 12,
                "date" : 1383755714214,
+               "reps" : 12,
                "weight" : 120
             },
             {
+               "weight" : 120,
                "reps" : 9,
-               "date" : 1383755789685,
-               "weight" : 120
+               "date" : 1383755789685
             },
             {
                "reps" : 5,
-               "date" : 1383755873241,
-               "weight" : 120
+               "weight" : 120,
+               "date" : 1383755873241
             }
          ],
-         "unit" : 1,
          "label" : "Incline chest"
       },
       {
+         "label" : "Vertical traction",
+         "unit" : 1,
          "sets" : [
             {
                "reps" : 12,
-               "date" : 1383755891615,
-               "weight" : 120
+               "weight" : 120,
+               "date" : 1383755891615
             },
             {
+               "weight" : 120,
                "reps" : 9,
-               "date" : 1383756025880,
-               "weight" : 120
+               "date" : 1383756025880
             },
             {
-               "reps" : 10,
                "date" : 1383756118047,
+               "reps" : 10,
                "weight" : 110
             }
-         ],
-         "unit" : 1,
-         "label" : "Vertical traction"
+         ]
       },
       {
+         "unit" : 1,
          "sets" : [
             {
-               "reps" : 10,
                "date" : 1383756227430,
-               "weight" : 120
+               "weight" : 120,
+               "reps" : 10
             },
             {
-               "reps" : 10,
                "date" : 1383756235238,
+               "reps" : 10,
                "weight" : 100
             }
          ],
-         "unit" : 1,
          "label" : "Ab machine"
       }
    ],
-   "end_date" : 1383756235238,
-   "fb_user" : "588163239",
    "label" : "Upper body",
-   "start_date" : 1383755085175
+   "end_date" : 1383756235238
 }

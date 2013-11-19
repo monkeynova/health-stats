@@ -1,39 +1,39 @@
 {
+   "end_date" : 1383676212000,
+   "label" : "ChinUp 5x5",
    "exercises" : [
       {
+         "label" : "Weighted Chin Up",
          "sets" : [
             {
+               "weight" : 175,
                "reps" : 5,
-               "date" : 1383687512245,
-               "weight" : 15
+               "date" : 1384376243862
+            },
+            {
+               "weight" : 175,
+               "reps" : 5,
+               "date" : 1384376235121
             },
             {
                "reps" : 5,
-               "date" : 1383687514145,
-               "weight" : 15
+               "weight" : 175,
+               "date" : 1384376223038
             },
             {
-               "reps" : 5,
-               "date" : 1383687515016,
-               "weight" : 15
+               "date" : 1384376212837,
+               "weight" : 175,
+               "reps" : 5
             },
             {
-               "reps" : 5,
-               "date" : 1383687515875,
-               "weight" : 15
-            },
-            {
+               "weight" : 175,
                "reps" : 4,
-               "date" : 1383687517573,
-               "weight" : 15
+               "date" : 1384376202888
             }
          ],
-         "unit" : 1,
-         "label" : "Weighted Chin Up"
+         "unit" : 1
       }
    ],
-   "end_date" : 1383676212000,
    "fb_user" : "588163239",
-   "label" : "ChinUp 5x5",
    "start_date" : 1383675312000
 }

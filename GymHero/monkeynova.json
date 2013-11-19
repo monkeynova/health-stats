@@ -1,5 +1,4 @@
 {
-   "username_literal" : "Monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -30,7 +29,7 @@
          9,
          20,
          209,
-         null,
+         23915,
          [
             "Push ups",
             "Chin up (wide)",
@@ -51,7 +50,7 @@
          1,
          5,
          24,
-         360,
+         4200,
          [
             "Weighted Chin Up"
          ]
@@ -64,7 +63,7 @@
          7,
          14,
          165,
-         null,
+         21220,
          [
             "Push ups",
             "Chin up (wide)",
@@ -83,7 +82,7 @@
          1,
          5,
          18,
-         360,
+         3240,
          [
             "Weighted Chin Up"
          ]
@@ -96,7 +95,7 @@
          9,
          21,
          231,
-         null,
+         27310,
          [
             "Push ups",
             "Chin up (wide)",
@@ -117,7 +116,7 @@
          1,
          5,
          22,
-         440,
+         3960,
          [
             "Weighted Chin Up"
          ]
@@ -174,34 +173,48 @@
             "ISO lateral high row",
             "Total abdominal"
          ]
+      ],
+      [
+         "ChinUp 5x5",
+         "6262d5903371013175c81284c6962b0f",
+         1384882806147,
+         1384883791893,
+         1,
+         5,
+         17,
+         3145,
+         [
+            "Weighted Chin Up"
+         ]
       ]
    ],
+   "username_literal" : "Monkeynova",
    "muscle_groups" : {
-      "Hammer curl" : 1,
-      "Bicep curls" : 1,
-      "Chin ups" : 1,
-      "Butterflies" : 2,
-      "Leg extension" : 6,
-      "Lat pull" : 3,
       "Shoulder press" : 4,
+      "Pull ups" : 1,
+      "Calf raise" : 6,
       "Pushups" : 2,
       "Barbell curl" : 1,
-      "Pull ups" : 1,
+      "Preacher curl" : 1,
+      "Butterflies" : 2,
+      "Bicep curls" : 1,
+      "Leg extension" : 6,
+      "Chin ups" : 1,
+      "Hammer curl" : 1,
+      "Seated calf raise" : 6,
+      "Dips" : 1,
+      "Bench press" : 2,
+      "Crunches" : 5,
       "Seated rows" : 3,
       "Incline bench press" : 2,
-      "Calf raise" : 6,
-      "Squats" : 6,
-      "Flies" : 2,
-      "Leg press" : 6,
-      "Seated calf raise" : 6,
-      "Crunches" : 5,
       "Leg curls" : 6,
-      "Shrugs" : 4,
-      "Preacher curl" : 1,
-      "Deadlifts" : 3,
+      "Leg press" : 6,
       "Sit ups" : 5,
-      "Bench press" : 2,
-      "Dips" : 1
+      "Deadlifts" : 3,
+      "Flies" : 2,
+      "Squats" : 6,
+      "Lat pull" : 3,
+      "Shrugs" : 4
    },
    "username" : "monkeynova",
    "success" : true
