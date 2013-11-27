@@ -1,32 +1,5 @@
 {
-   "username" : "monkeynova",
-   "muscle_groups" : {
-      "Shoulder press" : 4,
-      "Dips" : 1,
-      "Deadlifts" : 3,
-      "Bench press" : 2,
-      "Preacher curl" : 1,
-      "Seated rows" : 3,
-      "Butterflies" : 2,
-      "Lat pull" : 3,
-      "Shrugs" : 4,
-      "Hammer curl" : 1,
-      "Leg press" : 6,
-      "Calf raise" : 6,
-      "Sit ups" : 5,
-      "Pushups" : 2,
-      "Seated calf raise" : 6,
-      "Leg curls" : 6,
-      "Bicep curls" : 1,
-      "Incline bench press" : 2,
-      "Chin ups" : 1,
-      "Crunches" : 5,
-      "Barbell curl" : 1,
-      "Pull ups" : 1,
-      "Flies" : 2,
-      "Leg extension" : 6,
-      "Squats" : 6
-   },
+   "username_literal" : "Monkeynova",
    "success" : true,
    "workouts" : [
       [
@@ -247,7 +220,88 @@
          [
             "Weighted Chin Up"
          ]
+      ],
+      [
+         "Upper body",
+         "89a91e5035be01311519421569adccd2",
+         1385135999285,
+         1385137500538,
+         8,
+         18,
+         184,
+         23865,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral super incline press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Tricep dip (assisted)",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "e264111038f6013182d2668c2a8ce800",
+         1385489440718,
+         1385490684648,
+         1,
+         5,
+         21,
+         3885,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "50cc42c039b0013164542e2f3d0a161f",
+         1385570232807,
+         1385571957239,
+         9,
+         17,
+         172,
+         20535,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Ab machine"
+         ]
       ]
    ],
-   "username_literal" : "Monkeynova"
+   "muscle_groups" : {
+      "Deadlifts" : 3,
+      "Bench press" : 2,
+      "Sit ups" : 5,
+      "Bicep curls" : 1,
+      "Shoulder press" : 4,
+      "Hammer curl" : 1,
+      "Squats" : 6,
+      "Preacher curl" : 1,
+      "Flies" : 2,
+      "Barbell curl" : 1,
+      "Crunches" : 5,
+      "Lat pull" : 3,
+      "Seated rows" : 3,
+      "Seated calf raise" : 6,
+      "Pull ups" : 1,
+      "Pushups" : 2,
+      "Leg extension" : 6,
+      "Butterflies" : 2,
+      "Incline bench press" : 2,
+      "Shrugs" : 4,
+      "Chin ups" : 1,
+      "Calf raise" : 6,
+      "Leg press" : 6,
+      "Leg curls" : 6,
+      "Dips" : 1
+   },
+   "username" : "monkeynova"
 }
