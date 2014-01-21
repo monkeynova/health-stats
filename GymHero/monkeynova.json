@@ -1,38 +1,4 @@
 {
-<<<<<<< HEAD
-   "muscle_groups" : {
-      "Shrugs" : 4,
-      "Deadlifts" : 3,
-      "Preacher curl" : 1,
-      "Flies" : 2,
-      "Butterflies" : 2,
-      "Bicep curls" : 1,
-      "Seated calf raise" : 6,
-      "Leg extension" : 6,
-      "Leg curls" : 6,
-      "Sit ups" : 5,
-      "Shoulder press" : 4,
-      "Pushups" : 2,
-      "Leg press" : 6,
-      "Pull ups" : 1,
-      "Barbell curl" : 1,
-      "Dips" : 1,
-      "Hammer curl" : 1,
-      "Crunches" : 5,
-      "Bench press" : 2,
-      "Chin ups" : 1,
-      "Calf raise" : 6,
-      "Squats" : 6,
-      "Incline bench press" : 2,
-      "Seated rows" : 3,
-      "Lat pull" : 3
-   },
-=======
-   "username_literal" : "Monkeynova",
->>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
-   "success" : true,
-   "username" : "monkeynova",
-   "username_literal" : "Monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -306,7 +272,6 @@
             "Shoulder Press",
             "Ab machine"
          ]
-<<<<<<< HEAD
       ],
       [
          "ChinUp 5x5",
@@ -638,37 +603,35 @@
             "Total abdominal"
          ]
       ]
-   ]
-=======
-      ]
    ],
    "muscle_groups" : {
+      "Flies" : 2,
+      "Pushups" : 2,
+      "Incline bench press" : 2,
+      "Seated rows" : 3,
+      "Barbell curl" : 1,
       "Deadlifts" : 3,
-      "Bench press" : 2,
-      "Sit ups" : 5,
+      "Squats" : 6,
+      "Shrugs" : 4,
+      "Pull ups" : 1,
       "Bicep curls" : 1,
       "Shoulder press" : 4,
-      "Hammer curl" : 1,
-      "Squats" : 6,
-      "Preacher curl" : 1,
-      "Flies" : 2,
-      "Barbell curl" : 1,
-      "Crunches" : 5,
       "Lat pull" : 3,
-      "Seated rows" : 3,
-      "Seated calf raise" : 6,
-      "Pull ups" : 1,
-      "Pushups" : 2,
-      "Leg extension" : 6,
+      "Preacher curl" : 1,
+      "Bench press" : 2,
+      "Hammer curl" : 1,
       "Butterflies" : 2,
-      "Incline bench press" : 2,
-      "Shrugs" : 4,
-      "Chin ups" : 1,
       "Calf raise" : 6,
-      "Leg press" : 6,
+      "Seated calf raise" : 6,
+      "Chin ups" : 1,
+      "Sit ups" : 5,
+      "Leg extension" : 6,
+      "Dips" : 1,
       "Leg curls" : 6,
-      "Dips" : 1
+      "Leg press" : 6,
+      "Crunches" : 5
    },
-   "username" : "monkeynova"
->>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
+   "username" : "monkeynova",
+   "username_literal" : "Monkeynova",
+   "success" : true
 }
