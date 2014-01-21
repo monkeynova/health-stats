@@ -1,10 +1,14 @@
 {
+<<<<<<< HEAD
    "end_date" : 1385137500538,
    "fb_user" : "588163239",
+=======
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
    "exercises" : [
       {
          "sets" : [
             {
+<<<<<<< HEAD
                "date" : 1385136012673,
                "reps" : 37,
                "weight" : 160
@@ -12,10 +16,20 @@
          ],
          "label" : "Push ups",
          "unit" : 1
+=======
+               "reps" : 37,
+               "date" : 1385136012673,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1,
+         "label" : "Push ups"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [
             {
+<<<<<<< HEAD
                "date" : 1385136078957,
                "weight" : 160,
                "reps" : 9
@@ -34,10 +48,31 @@
                "date" : 1385136155091
             }
          ]
+=======
+               "reps" : 9,
+               "date" : 1385136078957,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (wide)"
       },
       {
          "sets" : [
             {
+               "reps" : 6,
+               "date" : 1385136155091,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
+      },
+      {
+         "sets" : [
+            {
+<<<<<<< HEAD
                "date" : 1385136243521,
                "weight" : 90,
                "reps" : 12
@@ -51,6 +86,21 @@
                "date" : 1385136412703,
                "weight" : 70,
                "reps" : 8
+=======
+               "reps" : 12,
+               "date" : 1385136243521,
+               "weight" : 90
+            },
+            {
+               "reps" : 6,
+               "date" : 1385136332521,
+               "weight" : 90
+            },
+            {
+               "reps" : 8,
+               "date" : 1385136412703,
+               "weight" : 70
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
             }
          ],
          "unit" : 1,
@@ -59,6 +109,7 @@
       {
          "sets" : [
             {
+<<<<<<< HEAD
                "weight" : 130,
                "reps" : 12,
                "date" : 1385136510382
@@ -76,21 +127,50 @@
          ],
          "label" : "ISO lateral low row",
          "unit" : 1
+=======
+               "reps" : 12,
+               "date" : 1385136510382,
+               "weight" : 130
+            },
+            {
+               "reps" : 12,
+               "date" : 1385136634679,
+               "weight" : 130
+            },
+            {
+               "reps" : 8,
+               "date" : 1385136722034,
+               "weight" : 130
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral low row"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [
             {
                "reps" : 8,
+<<<<<<< HEAD
                "weight" : 130,
                "date" : 1385136769135
             },
             {
                "date" : 1385136902245,
                "reps" : 7,
+=======
+               "date" : 1385136769135,
+               "weight" : 130
+            },
+            {
+               "reps" : 7,
+               "date" : 1385136902245,
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
                "weight" : 130
             },
             {
                "reps" : 8,
+<<<<<<< HEAD
                "weight" : 120,
                "date" : 1385136983324
             }
@@ -141,6 +221,60 @@
          ]
       }
    ],
+=======
+               "date" : 1385136983324,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 6,
+               "date" : 1385137062791,
+               "weight" : 145
+            },
+            {
+               "reps" : 6,
+               "date" : 1385137067440,
+               "weight" : 130
+            },
+            {
+               "reps" : 7,
+               "date" : 1385137232425,
+               "weight" : 115
+            }
+         ],
+         "unit" : 1,
+         "label" : "Tricep dip (assisted)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1385137310897,
+               "weight" : 120
+            },
+            {
+               "reps" : 12,
+               "date" : 1385137407903,
+               "weight" : 120
+            },
+            {
+               "reps" : 8,
+               "date" : 1385137500538,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "Ab machine"
+      }
+   ],
+   "end_date" : 1385137500538,
+   "fb_user" : "588163239",
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
    "label" : "Upper body",
    "start_date" : 1385135999285
 }
