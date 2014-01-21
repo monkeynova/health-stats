@@ -1,0 +1,98 @@
+{
+   "end_date" : 1389976277136,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Push ups",
+         "sets" : [
+            {
+               "reps" : 30,
+               "weight" : 160,
+               "date" : 1389975558792
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1389975653382,
+               "reps" : 8,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (wide)"
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (right)",
+         "sets" : [
+            {
+               "date" : 1389975721040,
+               "reps" : 5,
+               "weight" : 160
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral bench press",
+         "sets" : [
+            {
+               "weight" : 70,
+               "reps" : 12,
+               "date" : 1389975804399
+            },
+            {
+               "date" : 1389975895225,
+               "reps" : 9,
+               "weight" : 70
+            },
+            {
+               "date" : 1389975999032,
+               "weight" : 70,
+               "reps" : 7
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 120,
+               "date" : 1389976145342
+            },
+            {
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1389976197467
+            },
+            {
+               "date" : 1389976277136,
+               "reps" : 10,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral d.y. row"
+      },
+      {
+         "sets" : [],
+         "label" : "Vertical traction",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : []
+      },
+      {
+         "unit" : 1,
+         "label" : "Ab machine",
+         "sets" : []
+      }
+   ],
+   "start_date" : 1389975394455,
+   "label" : "Upper body"
+}

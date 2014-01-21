@@ -1,0 +1,120 @@
+{
+   "fb_user" : "588163239",
+   "end_date" : 1389198568188,
+   "label" : "Upper body",
+   "start_date" : 1389197426602,
+   "exercises" : [
+      {
+         "label" : "Push ups",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 30,
+               "weight" : 160,
+               "date" : 1389197434704
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 160,
+               "date" : 1389197501433
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 6,
+               "weight" : 160,
+               "date" : 1389197585000
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+      },
+      {
+         "unit" : 1,
+         "label" : "Incline chest",
+         "sets" : [
+            {
+               "weight" : 105,
+               "reps" : 12,
+               "date" : 1389197682403
+            },
+            {
+               "date" : 1389197750348,
+               "weight" : 105,
+               "reps" : 8
+            },
+            {
+               "reps" : 6,
+               "weight" : 105,
+               "date" : 1389197841591
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral d.y. row",
+         "sets" : [
+            {
+               "date" : 1389197935988,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "date" : 1389198033082,
+               "reps" : 10,
+               "weight" : 140
+            },
+            {
+               "date" : 1389198121542,
+               "reps" : 7,
+               "weight" : 140
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Tricep dip (assisted)",
+         "sets" : [
+            {
+               "date" : 1389198247514,
+               "reps" : 8,
+               "weight" : 130
+            },
+            {
+               "date" : 1389198324560,
+               "reps" : 5,
+               "weight" : 130
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 110,
+               "reps" : 12,
+               "date" : 1389198410406
+            },
+            {
+               "reps" : 10,
+               "weight" : 110,
+               "date" : 1389198491018
+            },
+            {
+               "weight" : 110,
+               "reps" : 7,
+               "date" : 1389198568188
+            }
+         ],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      }
+   ]
+}

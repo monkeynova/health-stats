@@ -1,33 +1,34 @@
 {
-   "username" : "monkeynova",
    "muscle_groups" : {
-      "Shoulder press" : 4,
-      "Dips" : 1,
-      "Deadlifts" : 3,
-      "Bench press" : 2,
-      "Preacher curl" : 1,
-      "Seated rows" : 3,
-      "Butterflies" : 2,
-      "Lat pull" : 3,
       "Shrugs" : 4,
-      "Hammer curl" : 1,
-      "Leg press" : 6,
-      "Calf raise" : 6,
-      "Sit ups" : 5,
-      "Pushups" : 2,
-      "Seated calf raise" : 6,
-      "Leg curls" : 6,
-      "Bicep curls" : 1,
-      "Incline bench press" : 2,
-      "Chin ups" : 1,
-      "Crunches" : 5,
-      "Barbell curl" : 1,
-      "Pull ups" : 1,
+      "Deadlifts" : 3,
+      "Preacher curl" : 1,
       "Flies" : 2,
+      "Butterflies" : 2,
+      "Bicep curls" : 1,
+      "Seated calf raise" : 6,
       "Leg extension" : 6,
-      "Squats" : 6
+      "Leg curls" : 6,
+      "Sit ups" : 5,
+      "Shoulder press" : 4,
+      "Pushups" : 2,
+      "Leg press" : 6,
+      "Pull ups" : 1,
+      "Barbell curl" : 1,
+      "Dips" : 1,
+      "Hammer curl" : 1,
+      "Crunches" : 5,
+      "Bench press" : 2,
+      "Chin ups" : 1,
+      "Calf raise" : 6,
+      "Squats" : 6,
+      "Incline bench press" : 2,
+      "Seated rows" : 3,
+      "Lat pull" : 3
    },
    "success" : true,
+   "username" : "monkeynova",
+   "username_literal" : "Monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -247,7 +248,390 @@
          [
             "Weighted Chin Up"
          ]
+      ],
+      [
+         "Upper body",
+         "89a91e5035be01311519421569adccd2",
+         1385135999285,
+         1385137500538,
+         8,
+         18,
+         184,
+         23865,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral super incline press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Tricep dip (assisted)",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "e264111038f6013182d2668c2a8ce800",
+         1385489440718,
+         1385490684648,
+         1,
+         5,
+         21,
+         3885,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "50cc42c039b0013164542e2f3d0a161f",
+         1385570232807,
+         1385571957239,
+         9,
+         17,
+         172,
+         20535,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "484e3a303e7201310b59726e8c9232d2",
+         1386092445523,
+         1386093438741,
+         1,
+         5,
+         15,
+         2805,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "e4ba2e203f2d0131bcb33aaff851205d",
+         1386173385333,
+         1386174023913,
+         9,
+         8,
+         76,
+         9320,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "17545c1040c00131b4937ad40bb06350",
+         1386346094981,
+         1386347268212,
+         9,
+         12,
+         130,
+         17870,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Ab machine",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "a38419e043f30131f8b5129f91108d64",
+         1386698072678,
+         1386698949570,
+         1,
+         4,
+         15,
+         2805,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "50859af044ae013101787e4336073b0e",
+         1386778324881,
+         1386779416249,
+         9,
+         13,
+         143,
+         17310,
+         [
+            "Push ups",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Chin up (wide)",
+            "Chin up (right)"
+         ]
+      ],
+      [
+         "Upper body",
+         "82349ca046400131cfb85a6085599e45",
+         1386950999789,
+         1386952710119,
+         9,
+         18,
+         202,
+         22725,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral decline press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral super incline press",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "2213aab04ae10131f07e1a38244b674e",
+         1387459903028,
+         1387460462567,
+         8,
+         11,
+         470,
+         75200,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Lunges",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "d037df104c6f0131aa0f028b35de1a31",
+         1387631053690,
+         1387632344794,
+         8,
+         13,
+         560,
+         89600,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Lunges",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "9cf74b004e0b0131f16b2e1748cd4635",
+         1387807888115,
+         1387808866758,
+         7,
+         13,
+         523,
+         83680,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Upper body",
+         "924a640053d70131c6ed7a3e41d1611c",
+         1388445292362,
+         1388446146560,
+         9,
+         9,
+         100,
+         13930,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral super incline press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral super incline press",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "08d98320553f01318dee126f988037c4",
+         1388599684125,
+         1388601821958,
+         12,
+         26,
+         305,
+         23600,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral decline press",
+            "ISO lateral row",
+            "Vertical traction",
+            "Ab machine",
+            "Shoulder internal rotation (right)",
+            "Shoulder external rotation (left)",
+            "Shoulder internal rotation (left)",
+            "Shoulder external rotation (right)",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "ff6ced0056c40131910e7a42e67787d8",
+         1388767115464,
+         1388768574077,
+         7,
+         15,
+         168,
+         21610,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Total abdominal",
+            "ISO lateral high row"
+         ]
+      ],
+      [
+         "Upper body",
+         "b86567205aae0131eccb56bf2583d5d3",
+         1389197426602,
+         1389198568188,
+         7,
+         14,
+         141,
+         18710,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "Incline chest",
+            "ISO lateral d.y. row",
+            "Tricep dip (assisted)",
+            "Vertical traction"
+         ]
+      ],
+      [
+         "Upper body",
+         "ecaf84305c4401319f4e4621cbd29be5",
+         1389371847263,
+         1389373296148,
+         8,
+         17,
+         187,
+         22730,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "69ce10c05e9b013196017e4a5e358db2",
+         1389628924049,
+         1389628973314,
+         7,
+         1,
+         9,
+         1440,
+         [
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "103907d061c20131d3627acc33318731",
+         1389975394455,
+         1389976277136,
+         8,
+         9,
+         105,
+         12920,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "799ae37063880131e78f6e878b843102",
+         1390170523587,
+         1390172345485,
+         7,
+         21,
+         263,
+         25870,
+         [
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Shoulder Press",
+            "ISO lateral high row",
+            "ISO lateral decline press",
+            "Vertical traction",
+            "Total abdominal"
+         ]
       ]
-   ],
-   "username_literal" : "Monkeynova"
+   ]
 }

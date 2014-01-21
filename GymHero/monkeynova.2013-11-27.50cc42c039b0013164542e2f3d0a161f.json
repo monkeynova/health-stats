@@ -1,0 +1,145 @@
+{
+   "fb_user" : "588163239",
+   "end_date" : 1385571957239,
+   "exercises" : [
+      {
+         "sets" : [],
+         "unit" : 1,
+         "label" : "Push ups"
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "date" : 1385570333290,
+               "weight" : 160,
+               "reps" : 10
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385570409325,
+               "weight" : 160,
+               "reps" : 5
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385570525250,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "reps" : 12,
+               "weight" : 90,
+               "date" : 1385570598995
+            },
+            {
+               "date" : 1385570699545,
+               "reps" : 11,
+               "weight" : 90
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385570836252,
+               "weight" : 140,
+               "reps" : 12
+            },
+            {
+               "reps" : 12,
+               "weight" : 140,
+               "date" : 1385570916067
+            },
+            {
+               "date" : 1385571016851,
+               "weight" : 140,
+               "reps" : 7
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral d.y. row"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 130,
+               "reps" : 8,
+               "date" : 1385571138300
+            },
+            {
+               "weight" : 130,
+               "reps" : 8,
+               "date" : 1385571251699
+            },
+            {
+               "date" : 1385571344469,
+               "reps" : 6,
+               "weight" : 130
+            }
+         ],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral high row",
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 120,
+               "date" : 1385571465409
+            },
+            {
+               "reps" : 12,
+               "weight" : 120,
+               "date" : 1385571541399
+            },
+            {
+               "date" : 1385571640477,
+               "weight" : 120,
+               "reps" : 12
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385571772644,
+               "weight" : 105,
+               "reps" : 12
+            },
+            {
+               "date" : 1385571859291,
+               "weight" : 105,
+               "reps" : 12
+            },
+            {
+               "date" : 1385571957239,
+               "reps" : 9,
+               "weight" : 105
+            }
+         ],
+         "label" : "Shoulder Press",
+         "unit" : 1
+      },
+      {
+         "sets" : [],
+         "unit" : 1,
+         "label" : "Ab machine"
+      }
+   ],
+   "start_date" : 1385570232807,
+   "label" : "Upper body"
+}

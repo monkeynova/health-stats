@@ -1,0 +1,97 @@
+{
+   "start_date" : 1386173385333,
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Push ups",
+         "sets" : []
+      },
+      {
+         "label" : "Chin up (wide)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 9,
+               "weight" : 160,
+               "date" : 1386173436886
+            }
+         ]
+      },
+      {
+         "label" : "Chin up (right)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 5,
+               "date" : 1386173505540
+            }
+         ]
+      },
+      {
+         "label" : "ISO lateral bench press",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1386173581977,
+               "weight" : 90,
+               "reps" : 12
+            },
+            {
+               "date" : 1386173733802,
+               "weight" : 90,
+               "reps" : 12
+            },
+            {
+               "weight" : 90,
+               "reps" : 8,
+               "date" : 1386173737221
+            }
+         ]
+      },
+      {
+         "label" : "ISO lateral d.y. row",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1386173854566,
+               "weight" : 140,
+               "reps" : 12
+            },
+            {
+               "date" : 1386173932785,
+               "reps" : 10,
+               "weight" : 140
+            },
+            {
+               "weight" : 140,
+               "reps" : 8,
+               "date" : 1386174023913
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Vertical traction",
+         "sets" : []
+      },
+      {
+         "sets" : [],
+         "unit" : 1,
+         "label" : "ISO lateral high row"
+      },
+      {
+         "sets" : [],
+         "label" : "Shoulder Press",
+         "unit" : 1
+      },
+      {
+         "label" : "Ab machine",
+         "unit" : 1,
+         "sets" : []
+      }
+   ],
+   "fb_user" : "588163239",
+   "end_date" : 1386174023913
+}

@@ -1,0 +1,146 @@
+{
+   "end_date" : 1385137500538,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "date" : 1385136012673,
+               "reps" : 37,
+               "weight" : 160
+            }
+         ],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385136078957,
+               "weight" : 160,
+               "reps" : 9
+            }
+         ],
+         "label" : "Chin up (wide)",
+         "unit" : 1
+      },
+      {
+         "label" : "Chin up (right)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 6,
+               "weight" : 160,
+               "date" : 1385136155091
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1385136243521,
+               "weight" : 90,
+               "reps" : 12
+            },
+            {
+               "date" : 1385136332521,
+               "weight" : 90,
+               "reps" : 6
+            },
+            {
+               "date" : 1385136412703,
+               "weight" : 70,
+               "reps" : 8
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral super incline press"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 130,
+               "reps" : 12,
+               "date" : 1385136510382
+            },
+            {
+               "reps" : 12,
+               "weight" : 130,
+               "date" : 1385136634679
+            },
+            {
+               "date" : 1385136722034,
+               "weight" : 130,
+               "reps" : 8
+            }
+         ],
+         "label" : "ISO lateral low row",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 130,
+               "date" : 1385136769135
+            },
+            {
+               "date" : 1385136902245,
+               "reps" : 7,
+               "weight" : 130
+            },
+            {
+               "reps" : 8,
+               "weight" : 120,
+               "date" : 1385136983324
+            }
+         ],
+         "label" : "Vertical traction",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Tricep dip (assisted)",
+         "sets" : [
+            {
+               "date" : 1385137062791,
+               "weight" : 145,
+               "reps" : 6
+            },
+            {
+               "reps" : 6,
+               "weight" : 130,
+               "date" : 1385137067440
+            },
+            {
+               "date" : 1385137232425,
+               "weight" : 115,
+               "reps" : 7
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Ab machine",
+         "sets" : [
+            {
+               "date" : 1385137310897,
+               "weight" : 120,
+               "reps" : 12
+            },
+            {
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1385137407903
+            },
+            {
+               "date" : 1385137500538,
+               "weight" : 120,
+               "reps" : 8
+            }
+         ]
+      }
+   ],
+   "label" : "Upper body",
+   "start_date" : 1385135999285
+}

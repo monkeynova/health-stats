@@ -1,0 +1,38 @@
+{
+   "exercises" : [
+      {
+         "label" : "Weighted Chin Up",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1385489449318,
+               "reps" : 5,
+               "weight" : 185
+            },
+            {
+               "reps" : 5,
+               "weight" : 185,
+               "date" : 1385489716814
+            },
+            {
+               "date" : 1385489955732,
+               "reps" : 5,
+               "weight" : 185
+            },
+            {
+               "date" : 1385490235446,
+               "weight" : 185,
+               "reps" : 3
+            },
+            {
+               "date" : 1385490684648,
+               "weight" : 185,
+               "reps" : 3
+            }
+         ]
+      }
+   ],
+   "start_date" : 1385489440718,
+   "label" : "ChinUp 5x5",
+   "end_date" : 1385490684648
+}
