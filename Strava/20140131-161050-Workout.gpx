@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="strava.com iPhone" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2014-01-31T16:10:50Z</time>
+ </metadata>
+ <trk>
+  <name>3146 Steps</name>
+  <trkseg>
+   <trkpt lat="37.7694710" lon="-122.4068810">
+    <ele>5.2</ele>
+    <time>2014-01-31T16:10:50Z</time>
+   </trkpt>
+   <trkpt lat="37.7695190" lon="-122.4069470">
+    <ele>5.3</ele>
+    <time>2014-01-31T16:10:51Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
