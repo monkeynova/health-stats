@@ -2,6 +2,7 @@
    "end_date" : 1386698949570,
    "fb_user" : "588163239",
    "label" : "ChinUp 5x5",
+<<<<<<< HEAD
    "exercises" : [
       {
          "label" : "Weighted Chin Up",
@@ -10,6 +11,16 @@
                "date" : 1386698079950,
                "reps" : 5,
                "weight" : 187.5
+=======
+   "start_date" : 1386698072678,
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 187.5,
+               "reps" : 5,
+               "date" : 1386698079950
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
                "weight" : 187.5,
@@ -18,6 +29,7 @@
             },
             {
                "weight" : 187.5,
+<<<<<<< HEAD
                "date" : 1386698757491,
                "reps" : 3
             },
@@ -31,4 +43,19 @@
       }
    ],
    "start_date" : 1386698072678
+=======
+               "reps" : 3,
+               "date" : 1386698757491
+            },
+            {
+               "date" : 1386698949570,
+               "weight" : 187.5,
+               "reps" : 3
+            }
+         ],
+         "label" : "Weighted Chin Up",
+         "unit" : 1
+      }
+   ]
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
 }

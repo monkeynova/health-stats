@@ -1,11 +1,19 @@
 {
+<<<<<<< HEAD
    "label" : "Calisthenics",
    "fb_user" : "588163239",
    "end_date" : 1387808866758,
+=======
+   "fb_user" : "588163239",
+   "end_date" : 1387808866758,
+   "start_date" : 1387807888115,
+   "label" : "Calisthenics",
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
    "exercises" : [
       {
          "sets" : [
             {
+<<<<<<< HEAD
                "reps" : 33,
                "date" : 1387807970243,
                "weight" : 160
@@ -47,6 +55,50 @@
             {
                "reps" : 50,
                "date" : 1387808445655,
+=======
+               "weight" : 160,
+               "reps" : 33,
+               "date" : 1387807970243
+            }
+         ],
+         "unit" : 1,
+         "label" : "Push ups"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 40,
+               "date" : 1387808081824
+            },
+            {
+               "date" : 1387808082515,
+               "weight" : 160,
+               "reps" : 40
+            }
+         ],
+         "label" : "Crunches",
+         "unit" : 1
+      },
+      {
+         "label" : "Leg lifts",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 30,
+               "weight" : 160,
+               "date" : 1387808184854
+            }
+         ]
+      },
+      {
+         "label" : "Jumping Jacks",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1387808445655,
+               "reps" : 50,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
                "weight" : 160
             },
             {
@@ -55,6 +107,7 @@
                "date" : 1387808446390
             },
             {
+<<<<<<< HEAD
                "weight" : 160,
                "reps" : 50,
                "date" : 1387808447164
@@ -68,12 +121,28 @@
                "weight" : 160,
                "date" : 1387808448685,
                "reps" : 50
+=======
+               "date" : 1387808447164,
+               "weight" : 160,
+               "reps" : 50
+            },
+            {
+               "reps" : 50,
+               "weight" : 160,
+               "date" : 1387808447978
+            },
+            {
+               "reps" : 50,
+               "weight" : 160,
+               "date" : 1387808448685
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
                "weight" : 160,
                "reps" : 50,
                "date" : 1387808449307
             }
+<<<<<<< HEAD
          ],
          "label" : "Jumping Jacks"
       },
@@ -112,4 +181,42 @@
       }
    ],
    "start_date" : 1387807888115
+=======
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 20,
+               "date" : 1387808564663
+            }
+         ],
+         "unit" : 1,
+         "label" : "Burpees"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 40,
+               "weight" : 160,
+               "date" : 1387808854950
+            }
+         ],
+         "unit" : 1,
+         "label" : "Body Squat"
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1387808866758,
+               "reps" : 20,
+               "weight" : 160
+            }
+         ],
+         "label" : "Mountain Climber",
+         "unit" : 1
+      }
+   ]
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
 }

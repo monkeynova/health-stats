@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
+   "fb_user" : "588163239",
+   "end_date" : 1385571957239,
+=======
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
    "exercises" : [
       {
          "sets" : [],
@@ -6,6 +11,17 @@
          "label" : "Push ups"
       },
       {
+<<<<<<< HEAD
+         "unit" : 1,
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "date" : 1385570333290,
+               "weight" : 160,
+               "reps" : 10
+            }
+         ]
+=======
          "sets" : [
             {
                "reps" : 10,
@@ -15,13 +31,20 @@
          ],
          "unit" : 1,
          "label" : "Chin up (wide)"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [
             {
+<<<<<<< HEAD
+               "date" : 1385570409325,
+               "weight" : 160,
+               "reps" : 5
+=======
                "reps" : 5,
                "date" : 1385570409325,
                "weight" : 160
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
             }
          ],
          "unit" : 1,
@@ -30,12 +53,30 @@
       {
          "sets" : [
             {
+<<<<<<< HEAD
+               "date" : 1385570525250,
+               "reps" : 12,
+=======
                "reps" : 12,
                "date" : 1385570525250,
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
                "weight" : 90
             },
             {
                "reps" : 12,
+<<<<<<< HEAD
+               "weight" : 90,
+               "date" : 1385570598995
+            },
+            {
+               "date" : 1385570699545,
+               "reps" : 11,
+               "weight" : 90
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+=======
                "date" : 1385570598995,
                "weight" : 90
             },
@@ -47,10 +88,26 @@
          ],
          "unit" : 1,
          "label" : "ISO lateral bench press"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [
             {
+<<<<<<< HEAD
+               "date" : 1385570836252,
+               "weight" : 140,
+               "reps" : 12
+            },
+            {
+               "reps" : 12,
+               "weight" : 140,
+               "date" : 1385570916067
+            },
+            {
+               "date" : 1385571016851,
+               "weight" : 140,
+               "reps" : 7
+=======
                "reps" : 12,
                "date" : 1385570836252,
                "weight" : 140
@@ -64,6 +121,7 @@
                "reps" : 7,
                "date" : 1385571016851,
                "weight" : 140
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
             }
          ],
          "unit" : 1,
@@ -72,6 +130,20 @@
       {
          "sets" : [
             {
+<<<<<<< HEAD
+               "weight" : 130,
+               "reps" : 8,
+               "date" : 1385571138300
+            },
+            {
+               "weight" : 130,
+               "reps" : 8,
+               "date" : 1385571251699
+            },
+            {
+               "date" : 1385571344469,
+               "reps" : 6,
+=======
                "reps" : 8,
                "date" : 1385571138300,
                "weight" : 130
@@ -84,6 +156,7 @@
             {
                "reps" : 6,
                "date" : 1385571344469,
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
                "weight" : 130
             }
          ],
@@ -91,6 +164,27 @@
          "label" : "Vertical traction"
       },
       {
+<<<<<<< HEAD
+         "unit" : 1,
+         "label" : "ISO lateral high row",
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 120,
+               "date" : 1385571465409
+            },
+            {
+               "reps" : 12,
+               "weight" : 120,
+               "date" : 1385571541399
+            },
+            {
+               "date" : 1385571640477,
+               "weight" : 120,
+               "reps" : 12
+            }
+         ]
+=======
          "sets" : [
             {
                "reps" : 12,
@@ -110,10 +204,30 @@
          ],
          "unit" : 1,
          "label" : "ISO lateral high row"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [
             {
+<<<<<<< HEAD
+               "date" : 1385571772644,
+               "weight" : 105,
+               "reps" : 12
+            },
+            {
+               "date" : 1385571859291,
+               "weight" : 105,
+               "reps" : 12
+            },
+            {
+               "date" : 1385571957239,
+               "reps" : 9,
+               "weight" : 105
+            }
+         ],
+         "label" : "Shoulder Press",
+         "unit" : 1
+=======
                "reps" : 12,
                "date" : 1385571772644,
                "weight" : 105
@@ -131,6 +245,7 @@
          ],
          "unit" : 1,
          "label" : "Shoulder Press"
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
       },
       {
          "sets" : [],
@@ -138,8 +253,13 @@
          "label" : "Ab machine"
       }
    ],
+<<<<<<< HEAD
+   "start_date" : 1385570232807,
+   "label" : "Upper body"
+=======
    "end_date" : 1385571957239,
    "fb_user" : "588163239",
    "label" : "Upper body",
    "start_date" : 1385570232807
+>>>>>>> ef5bdcee107b64d3f152836a35b3c020369b62eb
 }

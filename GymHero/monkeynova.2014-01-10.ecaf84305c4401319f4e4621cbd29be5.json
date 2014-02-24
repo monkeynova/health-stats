@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
    "start_date" : 1389371847263,
    "exercises" : [
       {
          "unit" : 1,
+=======
+   "end_date" : 1389373296148,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "sets" : [
             {
                "weight" : 160,
@@ -10,6 +17,7 @@
                "date" : 1389371964801
             }
          ],
+<<<<<<< HEAD
          "label" : "Push ups"
       },
       {
@@ -54,6 +62,53 @@
             }
          ],
          "unit" : 1
+=======
+         "unit" : 1,
+         "label" : "Push ups"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 8,
+               "date" : 1389372026068
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin up (wide)"
+      },
+      {
+         "label" : "Chin up (right)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1389372089048,
+               "reps" : 5,
+               "weight" : 160
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral bench press",
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 90,
+               "date" : 1389372182782
+            },
+            {
+               "reps" : 5,
+               "weight" : 90,
+               "date" : 1389372259777
+            },
+            {
+               "date" : 1389372371204,
+               "weight" : 70,
+               "reps" : 9
+            }
+         ]
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       },
       {
          "sets" : [
@@ -63,6 +118,7 @@
                "weight" : 140
             },
             {
+<<<<<<< HEAD
                "weight" : 140,
                "reps" : 10,
                "date" : 1389372575257
@@ -70,6 +126,15 @@
             {
                "weight" : 140,
                "reps" : 8,
+=======
+               "reps" : 10,
+               "weight" : 140,
+               "date" : 1389372575257
+            },
+            {
+               "reps" : 8,
+               "weight" : 140,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
                "date" : 1389372659883
             }
          ],
@@ -78,6 +143,7 @@
       },
       {
          "unit" : 1,
+<<<<<<< HEAD
          "sets" : [
             {
                "weight" : 110,
@@ -88,12 +154,26 @@
                "weight" : 110,
                "date" : 1389372829765,
                "reps" : 9
+=======
+         "label" : "Vertical traction",
+         "sets" : [
+            {
+               "weight" : 110,
+               "reps" : 10,
+               "date" : 1389372767103
+            },
+            {
+               "date" : 1389372829765,
+               "reps" : 9,
+               "weight" : 110
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
                "date" : 1389372904868,
                "reps" : 8,
                "weight" : 110
             }
+<<<<<<< HEAD
          ],
          "label" : "Vertical traction"
       },
@@ -112,12 +192,32 @@
                "weight" : 90
             }
          ]
+=======
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1389373058273,
+               "weight" : 105,
+               "reps" : 12
+            },
+            {
+               "reps" : 10,
+               "weight" : 90,
+               "date" : 1389373062943
+            }
+         ],
+         "label" : "Shoulder Press",
+         "unit" : 1
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       },
       {
          "unit" : 1,
          "label" : "Ab machine",
          "sets" : [
             {
+<<<<<<< HEAD
                "weight" : 100,
                "reps" : 12,
                "date" : 1389373143531
@@ -125,17 +225,35 @@
             {
                "weight" : 100,
                "date" : 1389373215322,
+=======
+               "reps" : 12,
+               "weight" : 100,
+               "date" : 1389373143531
+            },
+            {
+               "date" : 1389373215322,
+               "weight" : 100,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
                "reps" : 12
             },
             {
                "reps" : 12,
+<<<<<<< HEAD
                "date" : 1389373296148,
                "weight" : 100
+=======
+               "weight" : 100,
+               "date" : 1389373296148
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             }
          ]
       }
    ],
+<<<<<<< HEAD
    "fb_user" : "588163239",
    "end_date" : 1389373296148,
+=======
+   "start_date" : 1389371847263,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
    "label" : "Upper body"
 }

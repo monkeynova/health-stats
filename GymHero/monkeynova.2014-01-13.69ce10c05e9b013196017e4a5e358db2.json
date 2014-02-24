@@ -1,8 +1,13 @@
 {
+<<<<<<< HEAD
    "end_date" : 1389628973314,
    "fb_user" : "588163239",
    "label" : "Upper body",
    "start_date" : 1389628924049,
+=======
+   "fb_user" : "588163239",
+   "end_date" : 1389628973314,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
    "exercises" : [
       {
          "sets" : [
@@ -12,6 +17,7 @@
                "date" : 1389628973314
             }
          ],
+<<<<<<< HEAD
          "label" : "Chin up (wide)",
          "unit" : 1
       },
@@ -28,22 +34,57 @@
       {
          "unit" : 1,
          "label" : "ISO lateral low row",
+=======
+         "unit" : 1,
+         "label" : "Chin up (wide)"
+      },
+      {
+         "sets" : [],
+         "unit" : 1,
+         "label" : "Chin up (right)"
+      },
+      {
+         "label" : "ISO lateral bench press",
+         "unit" : 1,
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "sets" : []
       },
       {
          "sets" : [],
+<<<<<<< HEAD
          "label" : "Vertical traction",
          "unit" : 1
       },
       {
+=======
+         "label" : "ISO lateral low row",
+         "unit" : 1
+      },
+      {
+         "sets" : [],
+         "unit" : 1,
+         "label" : "Vertical traction"
+      },
+      {
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "unit" : 1,
          "label" : "Shoulder Press",
          "sets" : []
       },
       {
+<<<<<<< HEAD
          "unit" : 1,
          "sets" : [],
          "label" : "Ab machine"
       }
    ]
+=======
+         "sets" : [],
+         "label" : "Ab machine",
+         "unit" : 1
+      }
+   ],
+   "label" : "Upper body",
+   "start_date" : 1389628924049
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
 }

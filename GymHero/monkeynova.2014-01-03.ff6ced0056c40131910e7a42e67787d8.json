@@ -1,6 +1,7 @@
 {
    "exercises" : [
       {
+<<<<<<< HEAD
          "label" : "Push ups",
          "sets" : [
             {
@@ -21,20 +22,51 @@
          ],
          "label" : "Chin up (wide)",
          "unit" : 1
+=======
+         "unit" : 1,
+         "label" : "Push ups",
+         "sets" : [
+            {
+               "date" : 1388767218638,
+               "weight" : 160,
+               "reps" : 35
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 8,
+               "date" : 1388767304047
+            }
+         ]
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       },
       {
          "unit" : 1,
          "label" : "Chin up (right)",
          "sets" : [
             {
+<<<<<<< HEAD
                "reps" : 6,
                "date" : 1388767389761,
                "weight" : 160
+=======
+               "date" : 1388767389761,
+               "weight" : 160,
+               "reps" : 6
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             }
          ]
       },
       {
+<<<<<<< HEAD
          "label" : "ISO lateral bench press",
+=======
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "sets" : [
             {
                "date" : 1388767478429,
@@ -42,6 +74,7 @@
                "weight" : 90
             },
             {
+<<<<<<< HEAD
                "reps" : 6,
                "date" : 1388767563431,
                "weight" : 90
@@ -88,12 +121,60 @@
                "weight" : 90,
                "reps" : 12,
                "date" : 1388768200730
+=======
+               "weight" : 90,
+               "reps" : 6,
+               "date" : 1388767563431
+            },
+            {
+               "reps" : 7,
+               "weight" : 70,
+               "date" : 1388767794423
+            }
+         ],
+         "unit" : 1,
+         "label" : "ISO lateral bench press"
+      },
+      {
+         "label" : "ISO lateral d.y. row",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 140,
+               "date" : 1388767803585
+            },
+            {
+               "date" : 1388767899223,
+               "weight" : 140,
+               "reps" : 10
+            },
+            {
+               "date" : 1388767998286,
+               "reps" : 6,
+               "weight" : 140
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 90,
+               "date" : 1388768120763
+            },
+            {
+               "date" : 1388768200730,
+               "weight" : 90,
+               "reps" : 12
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
                "date" : 1388768285512,
                "reps" : 10,
                "weight" : 90
             }
+<<<<<<< HEAD
          ]
       },
       {
@@ -116,6 +197,32 @@
             }
          ],
          "label" : "ISO lateral high row"
+=======
+         ],
+         "label" : "Total abdominal",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral high row",
+         "sets" : [
+            {
+               "date" : 1388768401844,
+               "weight" : 140,
+               "reps" : 12
+            },
+            {
+               "date" : 1388768475873,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "date" : 1388768574077,
+               "weight" : 140,
+               "reps" : 12
+            }
+         ]
+>>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       }
    ],
    "start_date" : 1388767115464,
