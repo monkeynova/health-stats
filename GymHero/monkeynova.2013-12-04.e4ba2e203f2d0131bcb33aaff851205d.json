@@ -1,0 +1,97 @@
+{
+   "exercises" : [
+      {
+         "sets" : [],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1386173436886,
+               "reps" : 9
+            }
+         ],
+         "label" : "Chin up (wide)"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1386173505540,
+               "reps" : 5
+            }
+         ],
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1386173581977,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "date" : 1386173733802,
+               "reps" : 12
+            },
+            {
+               "weight" : 90,
+               "reps" : 8,
+               "date" : 1386173737221
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1386173854566,
+               "weight" : 140
+            },
+            {
+               "date" : 1386173932785,
+               "reps" : 10,
+               "weight" : 140
+            },
+            {
+               "date" : 1386174023913,
+               "reps" : 8,
+               "weight" : 140
+            }
+         ],
+         "label" : "ISO lateral d.y. row"
+      },
+      {
+         "label" : "Vertical traction",
+         "sets" : [],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral high row",
+         "sets" : []
+      },
+      {
+         "sets" : [],
+         "label" : "Shoulder Press",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Ab machine",
+         "sets" : []
+      }
+   ],
+   "start_date" : 1386173385333,
+   "label" : "Upper body",
+   "end_date" : 1386174023913,
+   "fb_user" : "588163239"
+}

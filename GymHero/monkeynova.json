@@ -1,6 +1,7 @@
 {
-   "username_literal" : "Monkeynova",
    "success" : true,
+   "username_literal" : "Monkeynova",
+   "username" : "monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -274,34 +275,536 @@
             "Shoulder Press",
             "Ab machine"
          ]
+      ],
+      [
+         "ChinUp 5x5",
+         "484e3a303e7201310b59726e8c9232d2",
+         1386092445523,
+         1386093438741,
+         1,
+         5,
+         15,
+         2805,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "e4ba2e203f2d0131bcb33aaff851205d",
+         1386173385333,
+         1386174023913,
+         9,
+         8,
+         76,
+         9320,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "17545c1040c00131b4937ad40bb06350",
+         1386346094981,
+         1386347268212,
+         9,
+         12,
+         130,
+         17870,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Ab machine",
+            "Vertical traction",
+            "ISO lateral high row",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "ChinUp 5x5",
+         "a38419e043f30131f8b5129f91108d64",
+         1386698072678,
+         1386698949570,
+         1,
+         4,
+         15,
+         2805,
+         [
+            "Weighted Chin Up"
+         ]
+      ],
+      [
+         "Upper body",
+         "50859af044ae013101787e4336073b0e",
+         1386778324881,
+         1386779416249,
+         9,
+         13,
+         143,
+         17310,
+         [
+            "Push ups",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral high row",
+            "Shoulder Press",
+            "Chin up (wide)",
+            "Chin up (right)"
+         ]
+      ],
+      [
+         "Upper body",
+         "82349ca046400131cfb85a6085599e45",
+         1386950999789,
+         1386952710119,
+         9,
+         18,
+         202,
+         22725,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral decline press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral super incline press",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "2213aab04ae10131f07e1a38244b674e",
+         1387459903028,
+         1387460462567,
+         8,
+         11,
+         470,
+         75200,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Lunges",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "d037df104c6f0131aa0f028b35de1a31",
+         1387631053690,
+         1387632344794,
+         8,
+         13,
+         560,
+         89600,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Lunges",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Calisthenics",
+         "9cf74b004e0b0131f16b2e1748cd4635",
+         1387807888115,
+         1387808866758,
+         7,
+         13,
+         523,
+         83680,
+         [
+            "Push ups",
+            "Crunches",
+            "Leg lifts",
+            "Jumping Jacks",
+            "Burpees",
+            "Body Squat",
+            "Mountain Climber"
+         ]
+      ],
+      [
+         "Upper body",
+         "924a640053d70131c6ed7a3e41d1611c",
+         1388445292362,
+         1388446146560,
+         9,
+         9,
+         100,
+         13930,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral super incline press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Ab machine",
+            "ISO lateral super incline press",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "08d98320553f01318dee126f988037c4",
+         1388599684125,
+         1388601821958,
+         12,
+         26,
+         305,
+         23600,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral decline press",
+            "ISO lateral row",
+            "Vertical traction",
+            "Ab machine",
+            "Shoulder internal rotation (right)",
+            "Shoulder external rotation (left)",
+            "Shoulder internal rotation (left)",
+            "Shoulder external rotation (right)",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "ff6ced0056c40131910e7a42e67787d8",
+         1388767115464,
+         1388768574077,
+         7,
+         15,
+         168,
+         21610,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Total abdominal",
+            "ISO lateral high row"
+         ]
+      ],
+      [
+         "Upper body",
+         "b86567205aae0131eccb56bf2583d5d3",
+         1389197426602,
+         1389198568188,
+         7,
+         14,
+         141,
+         18710,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "Incline chest",
+            "ISO lateral d.y. row",
+            "Tricep dip (assisted)",
+            "Vertical traction"
+         ]
+      ],
+      [
+         "Upper body",
+         "ecaf84305c4401319f4e4621cbd29be5",
+         1389371847263,
+         1389373296148,
+         8,
+         17,
+         187,
+         22730,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "69ce10c05e9b013196017e4a5e358db2",
+         1389628924049,
+         1389628973314,
+         7,
+         1,
+         9,
+         1440,
+         [
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "103907d061c20131d3627acc33318731",
+         1389975394455,
+         1389976277136,
+         8,
+         9,
+         105,
+         12920,
+         [
+            "Push ups",
+            "Chin up (wide)",
+            "Chin up (right)",
+            "ISO lateral bench press",
+            "ISO lateral d.y. row",
+            "Vertical traction",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "799ae37063880131e78f6e878b843102",
+         1390170523587,
+         1390172345485,
+         7,
+         21,
+         263,
+         25870,
+         [
+            "ISO lateral bench press",
+            "ISO lateral low row",
+            "Shoulder Press",
+            "ISO lateral high row",
+            "ISO lateral decline press",
+            "Vertical traction",
+            "Total abdominal"
+         ]
+      ],
+      [
+         "Upper body",
+         "898cb3d0653b0131eada6e5b053f6c60",
+         1390357390663,
+         1390358738355,
+         5,
+         15,
+         209,
+         20130,
+         [
+            "Verticle press",
+            "Dorsiflexor",
+            "Ab machine",
+            "Tricep dip (assisted)",
+            "Lat pull down"
+         ]
+      ],
+      [
+         "Upper body",
+         "d5334ed066cb013164171e9fcdd7ce03",
+         1390529171965,
+         1390530867789,
+         6,
+         17,
+         229,
+         21315,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "3f21e3d06ab9013138276efad7115f90",
+         1390961771314,
+         1390963414232,
+         6,
+         18,
+         189,
+         20625,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "0b61e9906c510131754356816f899880",
+         1391135688077,
+         1391137096833,
+         5,
+         15,
+         135,
+         15720,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder press"
+         ]
+      ],
+      [
+         "Upper body",
+         "f8dc1df0703c013157377ed7ca753538",
+         1391567557074,
+         1391568958036,
+         5,
+         15,
+         143,
+         16530,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder press"
+         ]
+      ],
+      [
+         "Upper body",
+         "8557402071cd0131b5224682c11fb458",
+         1391739477852,
+         1391740888254,
+         5,
+         15,
+         147,
+         17040,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder press"
+         ]
+      ],
+      [
+         "Upper body",
+         "02c39d8075ba0131ca6f0260099cd255",
+         1392170139219,
+         1392171543164,
+         5,
+         14,
+         108,
+         13275,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder fly"
+         ]
+      ],
+      [
+         "Upper body",
+         "706692f0774a0131f697663d1e40659e",
+         1392342938197,
+         1392344632899,
+         6,
+         18,
+         167,
+         20995,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder Press",
+            "Ab machine"
+         ]
+      ],
+      [
+         "Upper body",
+         "47683a107b3d01316ea132d14e5b84f8",
+         1392776536190,
+         1392777891366,
+         5,
+         15,
+         132,
+         16325,
+         [
+            "Incline press",
+            "Cable row",
+            "Tricep dip (assisted)",
+            "Lat pull down (Palm in)",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "e26ac5707e470131a5a776c7e49ad62a",
+         1393111222268,
+         1393112702493,
+         5,
+         15,
+         143,
+         17605,
+         [
+            "Incline press",
+            "Cable row",
+            "Shoulder Press",
+            "Lat pull down (Palm in)",
+            "Tricep dip (assisted)"
+         ]
       ]
    ],
    "muscle_groups" : {
-      "Deadlifts" : 3,
-      "Bench press" : 2,
-      "Sit ups" : 5,
-      "Bicep curls" : 1,
-      "Shoulder press" : 4,
-      "Hammer curl" : 1,
-      "Squats" : 6,
-      "Preacher curl" : 1,
       "Flies" : 2,
-      "Barbell curl" : 1,
-      "Crunches" : 5,
-      "Lat pull" : 3,
-      "Seated rows" : 3,
-      "Seated calf raise" : 6,
-      "Pull ups" : 1,
-      "Pushups" : 2,
       "Leg extension" : 6,
-      "Butterflies" : 2,
-      "Incline bench press" : 2,
-      "Shrugs" : 4,
-      "Chin ups" : 1,
+      "Bicep curls" : 1,
+      "Lat pull" : 3,
+      "Squats" : 6,
+      "Bench press" : 2,
+      "Preacher curl" : 1,
+      "Crunches" : 5,
       "Calf raise" : 6,
+      "Pushups" : 2,
+      "Seated rows" : 3,
+      "Butterflies" : 2,
       "Leg press" : 6,
+      "Barbell curl" : 1,
+      "Pull ups" : 1,
+      "Sit ups" : 5,
+      "Dips" : 1,
+      "Seated calf raise" : 6,
+      "Chin ups" : 1,
+      "Shrugs" : 4,
+      "Incline bench press" : 2,
       "Leg curls" : 6,
-      "Dips" : 1
-   },
-   "username" : "monkeynova"
+      "Deadlifts" : 3,
+      "Shoulder press" : 4,
+      "Hammer curl" : 1
+   }
 }

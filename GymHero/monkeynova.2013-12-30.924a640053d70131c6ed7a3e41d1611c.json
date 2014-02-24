@@ -1,0 +1,103 @@
+{
+   "start_date" : 1388445292362,
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 35,
+               "date" : 1388445406447
+            }
+         ],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 9,
+               "date" : 1388445483345
+            }
+         ],
+         "label" : "Chin up (wide)"
+      },
+      {
+         "label" : "Chin up (right)",
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 5,
+               "date" : 1388445560710
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1388445655900,
+               "reps" : 8,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "date" : 1388445716743,
+               "reps" : 8
+            },
+            {
+               "date" : 1388445802275,
+               "reps" : 5,
+               "weight" : 90
+            }
+         ],
+         "label" : "ISO lateral super incline press",
+         "unit" : 1
+      },
+      {
+         "label" : "ISO lateral low row",
+         "sets" : [
+            {
+               "date" : 1388445924551,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "weight" : 140,
+               "date" : 1388446013490,
+               "reps" : 10
+            },
+            {
+               "reps" : 8,
+               "date" : 1388446146560,
+               "weight" : 140
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "Vertical traction",
+         "sets" : [],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [],
+         "label" : "Ab machine"
+      },
+      {
+         "unit" : 1,
+         "sets" : [],
+         "label" : "ISO lateral super incline press"
+      },
+      {
+         "sets" : [],
+         "label" : "Shoulder Press",
+         "unit" : 1
+      }
+   ],
+   "label" : "Upper body",
+   "end_date" : 1388446146560,
+   "fb_user" : "588163239"
+}

@@ -1,0 +1,129 @@
+{
+   "start_date" : 1390529171965,
+   "exercises" : [
+      {
+         "label" : "Incline press",
+         "sets" : [
+            {
+               "weight" : 90,
+               "reps" : 16,
+               "date" : 1390529286596
+            },
+            {
+               "reps" : 16,
+               "date" : 1390529377283,
+               "weight" : 90
+            },
+            {
+               "date" : 1390529477497,
+               "reps" : 10,
+               "weight" : 90
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1390529597358,
+               "reps" : 16,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "date" : 1390529675873,
+               "reps" : 12
+            },
+            {
+               "date" : 1390529767948,
+               "reps" : 14,
+               "weight" : 75
+            }
+         ],
+         "label" : "Cable row",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1390529865521,
+               "reps" : 14,
+               "weight" : 100
+            },
+            {
+               "reps" : 8,
+               "date" : 1390529954540,
+               "weight" : 100
+            }
+         ],
+         "label" : "Tricep dip (assisted)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Lat pull down (Palm in)",
+         "sets" : [
+            {
+               "weight" : 90,
+               "date" : 1390530070944,
+               "reps" : 16
+            },
+            {
+               "date" : 1390530161873,
+               "reps" : 16,
+               "weight" : 90
+            },
+            {
+               "date" : 1390530272797,
+               "reps" : 16,
+               "weight" : 90
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1390530347796,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "reps" : 8,
+               "date" : 1390530424693,
+               "weight" : 90
+            },
+            {
+               "reps" : 7,
+               "date" : 1390530491942,
+               "weight" : 75
+            }
+         ],
+         "label" : "Shoulder press",
+         "unit" : 1
+      },
+      {
+         "label" : "Ab machine",
+         "sets" : [
+            {
+               "weight" : 100,
+               "date" : 1390530600223,
+               "reps" : 16
+            },
+            {
+               "reps" : 16,
+               "date" : 1390530687452,
+               "weight" : 110
+            },
+            {
+               "weight" : 110,
+               "date" : 1390530867789,
+               "reps" : 16
+            }
+         ],
+         "unit" : 1
+      }
+   ],
+   "fb_user" : "588163239",
+   "end_date" : 1390530867789,
+   "label" : "Upper body"
+}

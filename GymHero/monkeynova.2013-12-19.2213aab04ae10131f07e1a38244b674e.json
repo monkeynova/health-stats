@@ -1,0 +1,111 @@
+{
+   "end_date" : 1387460462567,
+   "fb_user" : "588163239",
+   "label" : "Calisthenics",
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "date" : 1387459915010,
+               "reps" : 30,
+               "weight" : 160
+            }
+         ],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "label" : "Crunches",
+         "sets" : [
+            {
+               "reps" : 70,
+               "date" : 1387459943931,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1387459973217,
+               "reps" : 20,
+               "weight" : 160
+            }
+         ],
+         "label" : "Leg lifts",
+         "unit" : 1
+      },
+      {
+         "label" : "Jumping Jacks",
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1387460460298,
+               "reps" : 50
+            },
+            {
+               "date" : 1387460461036,
+               "reps" : 50,
+               "weight" : 160
+            },
+            {
+               "weight" : 160,
+               "date" : 1387460461848,
+               "reps" : 50
+            },
+            {
+               "date" : 1387460462567,
+               "reps" : 50,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "Burpees",
+         "sets" : [
+            {
+               "reps" : 20,
+               "date" : 1387460034582,
+               "weight" : 160
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1387460060411,
+               "reps" : 50
+            }
+         ],
+         "label" : "Body Squat"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1387460303291,
+               "reps" : 40
+            }
+         ],
+         "label" : "Lunges",
+         "unit" : 1
+      },
+      {
+         "label" : "Mountain Climber",
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 40,
+               "date" : 1387460447547
+            }
+         ],
+         "unit" : 1
+      }
+   ],
+   "start_date" : 1387459903028
+}

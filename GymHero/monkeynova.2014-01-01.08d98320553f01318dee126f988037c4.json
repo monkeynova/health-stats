@@ -1,0 +1,210 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "date" : 1388599767871,
+               "reps" : 38,
+               "weight" : 160
+            }
+         ],
+         "label" : "Push ups",
+         "unit" : 1
+      },
+      {
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1388599838893,
+               "reps" : 8
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1388599934257,
+               "reps" : 7,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1388600019894,
+               "weight" : 90
+            },
+            {
+               "date" : 1388600087362,
+               "reps" : 8,
+               "weight" : 90
+            },
+            {
+               "date" : 1388600170230,
+               "reps" : 7,
+               "weight" : 90
+            }
+         ],
+         "label" : "ISO lateral decline press",
+         "unit" : 1
+      },
+      {
+         "label" : "ISO lateral row",
+         "sets" : [
+            {
+               "weight" : 140,
+               "date" : 1388600311892,
+               "reps" : 12
+            },
+            {
+               "weight" : 140,
+               "reps" : 5,
+               "date" : 1388600395036
+            },
+            {
+               "weight" : 120,
+               "date" : 1388600473116,
+               "reps" : 7
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "Vertical traction",
+         "sets" : [
+            {
+               "date" : 1388600562346,
+               "reps" : 6,
+               "weight" : 120
+            },
+            {
+               "weight" : 110,
+               "date" : 1388600640940,
+               "reps" : 8
+            },
+            {
+               "reps" : 7,
+               "date" : 1388600716041,
+               "weight" : 110
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 100,
+               "date" : 1388600895723,
+               "reps" : 12
+            },
+            {
+               "reps" : 12,
+               "date" : 1388600896446,
+               "weight" : 100
+            },
+            {
+               "weight" : 100,
+               "date" : 1388601086661,
+               "reps" : 10
+            }
+         ],
+         "label" : "Ab machine"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 10,
+               "reps" : 20,
+               "date" : 1388601318566
+            },
+            {
+               "reps" : 20,
+               "date" : 1388601378232,
+               "weight" : 10
+            }
+         ],
+         "label" : "Shoulder internal rotation (right)",
+         "unit" : 1
+      },
+      {
+         "label" : "Shoulder external rotation (left)",
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1388601344687,
+               "weight" : 10
+            },
+            {
+               "reps" : 7,
+               "date" : 1388601386463,
+               "weight" : 10
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 10,
+               "reps" : 20,
+               "date" : 1388601591898
+            },
+            {
+               "weight" : 10,
+               "date" : 1388601592882,
+               "reps" : 20
+            }
+         ],
+         "label" : "Shoulder internal rotation (left)"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 10,
+               "reps" : 12,
+               "date" : 1388601602946
+            },
+            {
+               "weight" : 10,
+               "date" : 1388601606797,
+               "reps" : 7
+            }
+         ],
+         "label" : "Shoulder external rotation (right)",
+         "unit" : 1
+      },
+      {
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "weight" : 90,
+               "date" : 1388601696493,
+               "reps" : 12
+            },
+            {
+               "date" : 1388601768330,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 4,
+               "date" : 1388601821958
+            }
+         ],
+         "unit" : 1
+      }
+   ],
+   "start_date" : 1388599684125,
+   "label" : "Upper body",
+   "fb_user" : "588163239",
+   "end_date" : 1388601821958
+}

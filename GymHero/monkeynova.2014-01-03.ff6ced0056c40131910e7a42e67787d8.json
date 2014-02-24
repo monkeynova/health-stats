@@ -1,0 +1,125 @@
+{
+   "exercises" : [
+      {
+         "label" : "Push ups",
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 35,
+               "date" : 1388767218638
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1388767304047,
+               "reps" : 8,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (wide)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (right)",
+         "sets" : [
+            {
+               "reps" : 6,
+               "date" : 1388767389761,
+               "weight" : 160
+            }
+         ]
+      },
+      {
+         "label" : "ISO lateral bench press",
+         "sets" : [
+            {
+               "date" : 1388767478429,
+               "reps" : 8,
+               "weight" : 90
+            },
+            {
+               "reps" : 6,
+               "date" : 1388767563431,
+               "weight" : 90
+            },
+            {
+               "weight" : 70,
+               "reps" : 7,
+               "date" : 1388767794423
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "ISO lateral d.y. row",
+         "sets" : [
+            {
+               "date" : 1388767803585,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "date" : 1388767899223,
+               "reps" : 10,
+               "weight" : 140
+            },
+            {
+               "reps" : 6,
+               "date" : 1388767998286,
+               "weight" : 140
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Total abdominal",
+         "sets" : [
+            {
+               "date" : 1388768120763,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 12,
+               "date" : 1388768200730
+            },
+            {
+               "date" : 1388768285512,
+               "reps" : 10,
+               "weight" : 90
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1388768401844,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "weight" : 140,
+               "date" : 1388768475873,
+               "reps" : 12
+            },
+            {
+               "date" : 1388768574077,
+               "reps" : 12,
+               "weight" : 140
+            }
+         ],
+         "label" : "ISO lateral high row"
+      }
+   ],
+   "start_date" : 1388767115464,
+   "label" : "Upper body",
+   "end_date" : 1388768574077,
+   "fb_user" : "588163239"
+}

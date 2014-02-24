@@ -1,0 +1,113 @@
+{
+   "label" : "Upper body",
+   "fb_user" : "588163239",
+   "end_date" : 1390358738355,
+   "exercises" : [
+      {
+         "label" : "Verticle press",
+         "sets" : [
+            {
+               "date" : 1390357468155,
+               "reps" : 16,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 16,
+               "date" : 1390357541468
+            },
+            {
+               "date" : 1390357635246,
+               "reps" : 16,
+               "weight" : 90
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 120,
+               "date" : 1390357740526,
+               "reps" : 16
+            },
+            {
+               "reps" : 12,
+               "date" : 1390357824338,
+               "weight" : 120
+            },
+            {
+               "weight" : 120,
+               "reps" : 10,
+               "date" : 1390357916776
+            }
+         ],
+         "label" : "Dorsiflexor",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 16,
+               "date" : 1390358033862,
+               "weight" : 90
+            },
+            {
+               "weight" : 100,
+               "date" : 1390358110423,
+               "reps" : 16
+            },
+            {
+               "weight" : 110,
+               "date" : 1390358199059,
+               "reps" : 16
+            }
+         ],
+         "label" : "Ab machine",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Tricep dip (assisted)",
+         "sets" : [
+            {
+               "weight" : 115,
+               "date" : 1390358300427,
+               "reps" : 10
+            },
+            {
+               "weight" : 100,
+               "reps" : 10,
+               "date" : 1390358383094
+            },
+            {
+               "date" : 1390358462388,
+               "reps" : 7,
+               "weight" : 100
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 75,
+               "date" : 1390358567304,
+               "reps" : 16
+            },
+            {
+               "date" : 1390358647103,
+               "reps" : 16,
+               "weight" : 75
+            },
+            {
+               "weight" : 75,
+               "reps" : 16,
+               "date" : 1390358738355
+            }
+         ],
+         "label" : "Lat pull down",
+         "unit" : 1
+      }
+   ],
+   "start_date" : 1390357390663
+}

@@ -1,0 +1,151 @@
+{
+   "end_date" : 1386952710119,
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "start_date" : 1386950999789,
+   "exercises" : [
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 160,
+               "date" : 1386951113500,
+               "reps" : 35
+            }
+         ],
+         "label" : "Push ups"
+      },
+      {
+         "label" : "Chin up (wide)",
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 7,
+               "date" : 1386951188779
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1386951268820,
+               "reps" : 7,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (right)"
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral decline press",
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1386951375834,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 12,
+               "date" : 1386951449070
+            },
+            {
+               "weight" : 90,
+               "reps" : 9,
+               "date" : 1386951540793
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1386951679468,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "date" : 1386951760376,
+               "reps" : 12,
+               "weight" : 140
+            },
+            {
+               "date" : 1386951862965,
+               "reps" : 9,
+               "weight" : 140
+            }
+         ],
+         "label" : "ISO lateral d.y. row",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Vertical traction",
+         "sets" : [
+            {
+               "reps" : 9,
+               "date" : 1386951979184,
+               "weight" : 120
+            },
+            {
+               "date" : 1386952057634,
+               "reps" : 7,
+               "weight" : 120
+            },
+            {
+               "weight" : 110,
+               "reps" : 8,
+               "date" : 1386952150397
+            }
+         ]
+      },
+      {
+         "label" : "Ab machine",
+         "sets" : [],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral super incline press",
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1386952256771,
+               "weight" : 70
+            },
+            {
+               "weight" : 70,
+               "reps" : 12,
+               "date" : 1386952330245
+            },
+            {
+               "date" : 1386952427828,
+               "reps" : 10,
+               "weight" : 70
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1386952538791,
+               "weight" : 90
+            },
+            {
+               "weight" : 75,
+               "reps" : 9,
+               "date" : 1386952615230
+            },
+            {
+               "weight" : 60,
+               "date" : 1386952710119,
+               "reps" : 12
+            }
+         ]
+      }
+   ]
+}

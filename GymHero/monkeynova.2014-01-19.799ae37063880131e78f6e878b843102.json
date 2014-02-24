@@ -1,0 +1,155 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 70,
+               "reps" : 12,
+               "date" : 1390170590038
+            },
+            {
+               "weight" : 70,
+               "reps" : 12,
+               "date" : 1390170659845
+            },
+            {
+               "weight" : 70,
+               "date" : 1390170738775,
+               "reps" : 12
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1390170865706
+            },
+            {
+               "weight" : 120,
+               "reps" : 12,
+               "date" : 1390170926597
+            },
+            {
+               "weight" : 120,
+               "date" : 1390171005676,
+               "reps" : 12
+            }
+         ],
+         "label" : "ISO lateral low row"
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1390171095297,
+               "weight" : 105
+            },
+            {
+               "weight" : 105,
+               "date" : 1390171167374,
+               "reps" : 10
+            },
+            {
+               "reps" : 8,
+               "date" : 1390171247650,
+               "weight" : 90
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 16,
+               "date" : 1390171390968
+            },
+            {
+               "weight" : 120,
+               "reps" : 16,
+               "date" : 1390171469658
+            },
+            {
+               "date" : 1390171573033,
+               "reps" : 16,
+               "weight" : 120
+            }
+         ],
+         "label" : "ISO lateral high row",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral decline press",
+         "sets" : [
+            {
+               "weight" : 70,
+               "date" : 1390171722387,
+               "reps" : 20
+            },
+            {
+               "reps" : 12,
+               "date" : 1390171818722,
+               "weight" : 90
+            },
+            {
+               "date" : 1390171891048,
+               "reps" : 10,
+               "weight" : 90
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Vertical traction",
+         "sets" : [
+            {
+               "weight" : 100,
+               "date" : 1390171990781,
+               "reps" : 12
+            },
+            {
+               "weight" : 100,
+               "date" : 1390172068077,
+               "reps" : 12
+            },
+            {
+               "weight" : 100,
+               "reps" : 11,
+               "date" : 1390172146255
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 100,
+               "date" : 1390172223728,
+               "reps" : 12
+            },
+            {
+               "reps" : 12,
+               "date" : 1390172288029,
+               "weight" : 90
+            },
+            {
+               "date" : 1390172345485,
+               "reps" : 12,
+               "weight" : 90
+            }
+         ],
+         "label" : "Total abdominal",
+         "unit" : 1
+      }
+   ],
+   "start_date" : 1390170523587,
+   "end_date" : 1390172345485,
+   "fb_user" : "588163239",
+   "label" : "Upper body"
+}

@@ -1,0 +1,49 @@
+{
+   "end_date" : 1389628973314,
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "start_date" : 1389628924049,
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 9,
+               "date" : 1389628973314
+            }
+         ],
+         "label" : "Chin up (wide)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Chin up (right)",
+         "sets" : []
+      },
+      {
+         "unit" : 1,
+         "sets" : [],
+         "label" : "ISO lateral bench press"
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral low row",
+         "sets" : []
+      },
+      {
+         "sets" : [],
+         "label" : "Vertical traction",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : []
+      },
+      {
+         "unit" : 1,
+         "sets" : [],
+         "label" : "Ab machine"
+      }
+   ]
+}
