@@ -1,0 +1,113 @@
+{
+   "end_date" : 1394158703198,
+   "exercises" : [
+      {
+         "label" : "Incline press",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 10,
+               "date" : 1394157238294,
+               "weight" : 150
+            },
+            {
+               "date" : 1394157404484,
+               "reps" : 10,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "reps" : 5,
+               "date" : 1394157508506
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 10,
+               "date" : 1394157514428
+            },
+            {
+               "reps" : 10,
+               "date" : 1394157706742,
+               "weight" : 135
+            },
+            {
+               "weight" : 135,
+               "date" : 1394157802832,
+               "reps" : 6
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1394157807031,
+               "weight" : 105
+            },
+            {
+               "weight" : 105,
+               "date" : 1394157984587,
+               "reps" : 10
+            },
+            {
+               "weight" : 105,
+               "reps" : 6,
+               "date" : 1394158083896
+            }
+         ]
+      },
+      {
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 12,
+               "date" : 1394158088880
+            },
+            {
+               "date" : 1394158315112,
+               "reps" : 10,
+               "weight" : 135
+            },
+            {
+               "date" : 1394158437368,
+               "reps" : 7,
+               "weight" : 135
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 70,
+               "reps" : 10,
+               "date" : 1394158441521
+            },
+            {
+               "weight" : 70,
+               "date" : 1394158619895,
+               "reps" : 10
+            },
+            {
+               "date" : 1394158703198,
+               "reps" : 6,
+               "weight" : 70
+            }
+         ],
+         "unit" : 1,
+         "label" : "Deltoid fly (face in)"
+      }
+   ],
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "start_date" : 1394157209160
+}

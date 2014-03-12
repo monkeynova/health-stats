@@ -1,0 +1,129 @@
+{
+   "start_date" : 1393553389353,
+   "fb_user" : "588163239",
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "reps" : 10,
+               "date" : 1393553413884,
+               "weight" : 135
+            },
+            {
+               "reps" : 10,
+               "date" : 1393553550298,
+               "weight" : 135
+            },
+            {
+               "reps" : 8,
+               "date" : 1393553653774,
+               "weight" : 135
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Incline press",
+         "sets" : [
+            {
+               "weight" : 150,
+               "reps" : 8,
+               "date" : 1393553755304
+            },
+            {
+               "reps" : 8,
+               "date" : 1393553867237,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "date" : 1393553987776,
+               "reps" : 7
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 135,
+               "date" : 1393553992654,
+               "reps" : 10
+            },
+            {
+               "weight" : 135,
+               "reps" : 10,
+               "date" : 1393554246956
+            },
+            {
+               "weight" : 135,
+               "reps" : 9,
+               "date" : 1393554370783
+            }
+         ],
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1
+      },
+      {
+         "label" : "Shoulder Press",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1393554375257,
+               "reps" : 12,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 12,
+               "date" : 1393554597169
+            },
+            {
+               "weight" : 90,
+               "reps" : 11,
+               "date" : 1393554711554
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1393554817524,
+               "reps" : 8,
+               "weight" : 160
+            },
+            {
+               "date" : 1393554914707,
+               "reps" : 6,
+               "weight" : 160
+            }
+         ],
+         "label" : "Tricep dip (assisted)",
+         "unit" : 1
+      },
+      {
+         "label" : "Deltoid fly (face in)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 60,
+               "reps" : 12,
+               "date" : 1393555050432
+            },
+            {
+               "reps" : 12,
+               "date" : 1393555145281,
+               "weight" : 60
+            },
+            {
+               "date" : 1393555248534,
+               "reps" : 12,
+               "weight" : 60
+            }
+         ]
+      }
+   ],
+   "end_date" : 1393555248534
+}
