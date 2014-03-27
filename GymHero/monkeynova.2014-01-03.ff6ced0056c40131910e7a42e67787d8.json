@@ -1,99 +1,69 @@
 {
+   "label" : "Upper body",
+   "end_date" : 1388768574077,
+   "start_date" : 1388767115464,
+   "fb_user" : "588163239",
    "exercises" : [
       {
-<<<<<<< HEAD
          "label" : "Push ups",
-         "sets" : [
-            {
-               "weight" : 160,
-               "reps" : 35,
-               "date" : 1388767218638
-            }
-         ],
-         "unit" : 1
-      },
-      {
-         "sets" : [
-            {
-               "date" : 1388767304047,
-               "reps" : 8,
-               "weight" : 160
-            }
-         ],
-         "label" : "Chin up (wide)",
-         "unit" : 1
-=======
          "unit" : 1,
-         "label" : "Push ups",
          "sets" : [
             {
-               "date" : 1388767218638,
                "weight" : 160,
+               "date" : 1388767218638,
                "reps" : 35
             }
          ]
       },
       {
-         "unit" : 1,
          "label" : "Chin up (wide)",
+         "unit" : 1,
          "sets" : [
             {
+               "date" : 1388767304047,
                "weight" : 160,
-               "reps" : 8,
-               "date" : 1388767304047
+               "reps" : 8
             }
          ]
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       },
       {
-         "unit" : 1,
          "label" : "Chin up (right)",
+         "unit" : 1,
          "sets" : [
             {
-<<<<<<< HEAD
                "reps" : 6,
                "date" : 1388767389761,
                "weight" : 160
-=======
-               "date" : 1388767389761,
-               "weight" : 160,
-               "reps" : 6
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             }
          ]
       },
       {
-<<<<<<< HEAD
+         "unit" : 1,
          "label" : "ISO lateral bench press",
-=======
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "sets" : [
             {
                "date" : 1388767478429,
-               "reps" : 8,
-               "weight" : 90
+               "weight" : 90,
+               "reps" : 8
             },
             {
-<<<<<<< HEAD
-               "reps" : 6,
                "date" : 1388767563431,
+               "reps" : 6,
                "weight" : 90
             },
             {
                "weight" : 70,
-               "reps" : 7,
-               "date" : 1388767794423
+               "date" : 1388767794423,
+               "reps" : 7
             }
-         ],
-         "unit" : 1
+         ]
       },
       {
-         "label" : "ISO lateral d.y. row",
          "sets" : [
             {
+               "weight" : 140,
                "date" : 1388767803585,
-               "reps" : 12,
-               "weight" : 140
+               "reps" : 12
             },
             {
                "date" : 1388767899223,
@@ -101,16 +71,15 @@
                "weight" : 140
             },
             {
-               "reps" : 6,
                "date" : 1388767998286,
+               "reps" : 6,
                "weight" : 140
             }
          ],
+         "label" : "ISO lateral d.y. row",
          "unit" : 1
       },
       {
-         "unit" : 1,
-         "label" : "Total abdominal",
          "sets" : [
             {
                "date" : 1388768120763,
@@ -118,86 +87,15 @@
                "weight" : 90
             },
             {
-               "weight" : 90,
-               "reps" : 12,
-               "date" : 1388768200730
-=======
-               "weight" : 90,
-               "reps" : 6,
-               "date" : 1388767563431
-            },
-            {
-               "reps" : 7,
-               "weight" : 70,
-               "date" : 1388767794423
-            }
-         ],
-         "unit" : 1,
-         "label" : "ISO lateral bench press"
-      },
-      {
-         "label" : "ISO lateral d.y. row",
-         "unit" : 1,
-         "sets" : [
-            {
-               "reps" : 12,
-               "weight" : 140,
-               "date" : 1388767803585
-            },
-            {
-               "date" : 1388767899223,
-               "weight" : 140,
-               "reps" : 10
-            },
-            {
-               "date" : 1388767998286,
-               "reps" : 6,
-               "weight" : 140
-            }
-         ]
-      },
-      {
-         "sets" : [
-            {
-               "reps" : 12,
-               "weight" : 90,
-               "date" : 1388768120763
-            },
-            {
                "date" : 1388768200730,
-               "weight" : 90,
-               "reps" : 12
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
+               "reps" : 12,
+               "weight" : 90
             },
             {
-               "date" : 1388768285512,
                "reps" : 10,
+               "date" : 1388768285512,
                "weight" : 90
             }
-<<<<<<< HEAD
-         ]
-      },
-      {
-         "unit" : 1,
-         "sets" : [
-            {
-               "date" : 1388768401844,
-               "reps" : 12,
-               "weight" : 140
-            },
-            {
-               "weight" : 140,
-               "date" : 1388768475873,
-               "reps" : 12
-            },
-            {
-               "date" : 1388768574077,
-               "reps" : 12,
-               "weight" : 140
-            }
-         ],
-         "label" : "ISO lateral high row"
-=======
          ],
          "label" : "Total abdominal",
          "unit" : 1
@@ -207,14 +105,14 @@
          "label" : "ISO lateral high row",
          "sets" : [
             {
-               "date" : 1388768401844,
                "weight" : 140,
+               "date" : 1388768401844,
                "reps" : 12
             },
             {
                "date" : 1388768475873,
-               "reps" : 12,
-               "weight" : 140
+               "weight" : 140,
+               "reps" : 12
             },
             {
                "date" : 1388768574077,
@@ -222,11 +120,6 @@
                "reps" : 12
             }
          ]
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       }
-   ],
-   "start_date" : 1388767115464,
-   "label" : "Upper body",
-   "end_date" : 1388768574077,
-   "fb_user" : "588163239"
+   ]
 }

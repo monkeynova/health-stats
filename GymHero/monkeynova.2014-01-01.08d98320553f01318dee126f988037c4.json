@@ -1,5 +1,7 @@
 {
-<<<<<<< HEAD
+   "end_date" : 1388601821958,
+   "start_date" : 1388599684125,
+   "label" : "Upper body",
    "exercises" : [
       {
          "sets" : [
@@ -13,26 +15,26 @@
          "unit" : 1
       },
       {
+         "unit" : 1,
          "label" : "Chin up (wide)",
          "sets" : [
             {
-               "weight" : 160,
                "date" : 1388599838893,
-               "reps" : 8
+               "reps" : 8,
+               "weight" : 160
             }
-         ],
-         "unit" : 1
+         ]
       },
       {
          "unit" : 1,
+         "label" : "Chin up (right)",
          "sets" : [
             {
-               "date" : 1388599934257,
                "reps" : 7,
+               "date" : 1388599934257,
                "weight" : 160
             }
-         ],
-         "label" : "Chin up (right)"
+         ]
       },
       {
          "sets" : [
@@ -43,307 +45,134 @@
             },
             {
                "date" : 1388600087362,
-               "reps" : 8,
-               "weight" : 90
-=======
-   "end_date" : 1388601821958,
-   "fb_user" : "588163239",
-   "start_date" : 1388599684125,
-   "label" : "Upper body",
-   "exercises" : [
-      {
-         "label" : "Push ups",
-         "unit" : 1,
-         "sets" : [
-            {
-               "weight" : 160,
-               "reps" : 38,
-               "date" : 1388599767871
-            }
-         ]
-      },
-      {
-         "sets" : [
-            {
-               "date" : 1388599838893,
-               "reps" : 8,
-               "weight" : 160
-            }
-         ],
-         "unit" : 1,
-         "label" : "Chin up (wide)"
-      },
-      {
-         "sets" : [
-            {
-               "reps" : 7,
-               "weight" : 160,
-               "date" : 1388599934257
-            }
-         ],
-         "label" : "Chin up (right)",
-         "unit" : 1
-      },
-      {
-         "label" : "ISO lateral decline press",
-         "unit" : 1,
-         "sets" : [
-            {
-               "weight" : 90,
-               "reps" : 12,
-               "date" : 1388600019894
-            },
-            {
-               "date" : 1388600087362,
                "weight" : 90,
                "reps" : 8
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
-               "date" : 1388600170230,
                "reps" : 7,
+               "date" : 1388600170230,
                "weight" : 90
             }
-<<<<<<< HEAD
          ],
-         "label" : "ISO lateral decline press",
-         "unit" : 1
+         "unit" : 1,
+         "label" : "ISO lateral decline press"
       },
       {
-=======
-         ]
+         "sets" : [
+            {
+               "reps" : 12,
+               "date" : 1388600311892,
+               "weight" : 140
+            },
+            {
+               "weight" : 140,
+               "date" : 1388600395036,
+               "reps" : 5
+            },
+            {
+               "reps" : 7,
+               "date" : 1388600473116,
+               "weight" : 120
+            }
+         ],
+         "label" : "ISO lateral row",
+         "unit" : 1
       },
       {
          "unit" : 1,
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-         "label" : "ISO lateral row",
-         "sets" : [
-            {
-               "weight" : 140,
-<<<<<<< HEAD
-               "date" : 1388600311892,
-               "reps" : 12
-            },
-            {
-               "weight" : 140,
-               "reps" : 5,
-               "date" : 1388600395036
-            },
-            {
-               "weight" : 120,
-               "date" : 1388600473116,
-               "reps" : 7
-            }
-         ],
-         "unit" : 1
-      },
-      {
          "label" : "Vertical traction",
          "sets" : [
             {
                "date" : 1388600562346,
-               "reps" : 6,
-               "weight" : 120
+               "weight" : 120,
+               "reps" : 6
             },
             {
-               "weight" : 110,
                "date" : 1388600640940,
-               "reps" : 8
-            },
-            {
-               "reps" : 7,
-               "date" : 1388600716041,
+               "reps" : 8,
                "weight" : 110
-            }
-         ],
-         "unit" : 1
-      },
-      {
-         "unit" : 1,
-         "sets" : [
-            {
-               "weight" : 100,
-               "date" : 1388600895723,
-=======
-               "reps" : 12,
-               "date" : 1388600311892
             },
             {
-               "reps" : 5,
-               "weight" : 140,
-               "date" : 1388600395036
-            },
-            {
-               "date" : 1388600473116,
+               "date" : 1388600716041,
                "reps" : 7,
-               "weight" : 120
+               "weight" : 110
             }
          ]
       },
       {
-         "sets" : [
-            {
-               "weight" : 120,
-               "reps" : 6,
-               "date" : 1388600562346
-            },
-            {
-               "reps" : 8,
-               "weight" : 110,
-               "date" : 1388600640940
-            },
-            {
-               "date" : 1388600716041,
-               "reps" : 7,
-               "weight" : 110
-            }
-         ],
-         "label" : "Vertical traction",
-         "unit" : 1
-      },
-      {
+         "unit" : 1,
+         "label" : "Ab machine",
          "sets" : [
             {
                "date" : 1388600895723,
-               "weight" : 100,
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-               "reps" : 12
+               "reps" : 12,
+               "weight" : 100
             },
             {
-               "reps" : 12,
-<<<<<<< HEAD
                "date" : 1388600896446,
-               "weight" : 100
+               "weight" : 100,
+               "reps" : 12
             },
             {
                "weight" : 100,
                "date" : 1388601086661,
                "reps" : 10
             }
-         ],
-=======
-               "weight" : 100,
-               "date" : 1388600896446
-            },
-            {
-               "reps" : 10,
-               "weight" : 100,
-               "date" : 1388601086661
-            }
-         ],
-         "unit" : 1,
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-         "label" : "Ab machine"
+         ]
       },
       {
-         "sets" : [
-            {
-               "weight" : 10,
-               "reps" : 20,
-               "date" : 1388601318566
-            },
-            {
-<<<<<<< HEAD
-               "reps" : 20,
-               "date" : 1388601378232,
-               "weight" : 10
-            }
-         ],
+         "unit" : 1,
          "label" : "Shoulder internal rotation (right)",
-         "unit" : 1
-      },
-      {
-         "label" : "Shoulder external rotation (left)",
-         "sets" : [
-            {
-               "reps" : 12,
-               "date" : 1388601344687,
-               "weight" : 10
-            },
-            {
-               "reps" : 7,
-               "date" : 1388601386463,
-               "weight" : 10
-            }
-         ],
-         "unit" : 1
-      },
-      {
-         "unit" : 1,
          "sets" : [
             {
                "weight" : 10,
-               "reps" : 20,
-               "date" : 1388601591898
-            },
-            {
-               "weight" : 10,
-               "date" : 1388601592882,
+               "date" : 1388601318566,
                "reps" : 20
-            }
-         ],
-         "label" : "Shoulder internal rotation (left)"
-=======
+            },
+            {
                "date" : 1388601378232,
                "weight" : 10,
                "reps" : 20
             }
-         ],
-         "unit" : 1,
-         "label" : "Shoulder internal rotation (right)"
+         ]
       },
       {
-         "label" : "Shoulder external rotation (left)",
-         "unit" : 1,
          "sets" : [
             {
-               "reps" : 12,
                "weight" : 10,
-               "date" : 1388601344687
+               "date" : 1388601344687,
+               "reps" : 12
             },
             {
                "date" : 1388601386463,
-               "weight" : 10,
-               "reps" : 7
-            }
-         ]
-      },
-      {
-         "label" : "Shoulder internal rotation (left)",
-         "unit" : 1,
-         "sets" : [
-            {
-               "date" : 1388601591898,
-               "reps" : 20,
+               "reps" : 7,
                "weight" : 10
-            },
-            {
-               "weight" : 10,
-               "reps" : 20,
-               "date" : 1388601592882
-            }
-         ]
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-      },
-      {
-         "sets" : [
-            {
-<<<<<<< HEAD
-               "weight" : 10,
-               "reps" : 12,
-               "date" : 1388601602946
-            },
-            {
-               "weight" : 10,
-               "date" : 1388601606797,
-               "reps" : 7
             }
          ],
-         "label" : "Shoulder external rotation (right)",
+         "label" : "Shoulder external rotation (left)",
          "unit" : 1
       },
       {
-=======
+         "unit" : 1,
+         "label" : "Shoulder internal rotation (left)",
+         "sets" : [
+            {
+               "reps" : 20,
+               "date" : 1388601591898,
+               "weight" : 10
+            },
+            {
+               "date" : 1388601592882,
+               "reps" : 20,
+               "weight" : 10
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder external rotation (right)",
+         "sets" : [
+            {
                "date" : 1388601602946,
                "weight" : 10,
                "reps" : 12
@@ -353,20 +182,14 @@
                "reps" : 7,
                "weight" : 10
             }
-         ],
-         "unit" : 1,
-         "label" : "Shoulder external rotation (right)"
+         ]
       },
       {
-         "unit" : 1,
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-         "label" : "Shoulder Press",
          "sets" : [
             {
-               "weight" : 90,
-<<<<<<< HEAD
+               "reps" : 12,
                "date" : 1388601696493,
-               "reps" : 12
+               "weight" : 90
             },
             {
                "date" : 1388601768330,
@@ -374,34 +197,14 @@
                "weight" : 90
             },
             {
-               "weight" : 90,
+               "date" : 1388601821958,
                "reps" : 4,
-               "date" : 1388601821958
+               "weight" : 90
             }
          ],
-         "unit" : 1
+         "unit" : 1,
+         "label" : "Shoulder Press"
       }
    ],
-   "start_date" : 1388599684125,
-   "label" : "Upper body",
-   "fb_user" : "588163239",
-   "end_date" : 1388601821958
-=======
-               "reps" : 12,
-               "date" : 1388601696493
-            },
-            {
-               "reps" : 12,
-               "weight" : 90,
-               "date" : 1388601768330
-            },
-            {
-               "date" : 1388601821958,
-               "weight" : 90,
-               "reps" : 4
-            }
-         ]
-      }
-   ]
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
+   "fb_user" : "588163239"
 }

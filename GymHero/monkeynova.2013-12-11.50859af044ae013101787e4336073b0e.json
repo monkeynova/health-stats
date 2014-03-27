@@ -1,26 +1,14 @@
 {
-<<<<<<< HEAD
-   "exercises" : [
-      {
-         "unit" : 1,
-         "label" : "Push ups",
-         "sets" : [
-            {
-               "reps" : 30,
-               "date" : 1386778394627,
-=======
-   "label" : "Upper body",
-   "start_date" : 1386778324881,
+   "fb_user" : "588163239",
    "exercises" : [
       {
          "label" : "Push ups",
          "unit" : 1,
          "sets" : [
             {
+               "weight" : 160,
                "date" : 1386778394627,
-               "reps" : 30,
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
-               "weight" : 160
+               "reps" : 30
             }
          ]
       },
@@ -29,7 +17,6 @@
          "label" : "ISO lateral bench press",
          "sets" : [
             {
-<<<<<<< HEAD
                "weight" : 90,
                "date" : 1386778506680,
                "reps" : 10
@@ -40,54 +27,20 @@
                "reps" : 8
             },
             {
+               "weight" : 90,
                "date" : 1386778656668,
-               "reps" : 5,
-               "weight" : 90
-=======
-               "date" : 1386778506680,
-               "reps" : 10,
-               "weight" : 90
-            },
-            {
-               "weight" : 90,
-               "reps" : 8,
-               "date" : 1386778575137
-            },
-            {
-               "reps" : 5,
-               "weight" : 90,
-               "date" : 1386778656668
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
+               "reps" : 5
             }
          ]
       },
       {
-<<<<<<< HEAD
+         "unit" : 1,
          "label" : "ISO lateral d.y. row",
          "sets" : [
             {
                "weight" : 110,
-               "reps" : 12,
-               "date" : 1386778792752
-            },
-            {
-               "reps" : 12,
-               "date" : 1386778863089,
-               "weight" : 110
-            },
-            {
-               "weight" : 110,
-               "date" : 1386778932977,
+               "date" : 1386778792752,
                "reps" : 12
-            }
-         ],
-         "unit" : 1
-=======
-         "sets" : [
-            {
-               "reps" : 12,
-               "weight" : 110,
-               "date" : 1386778792752
             },
             {
                "date" : 1386778863089,
@@ -99,91 +52,47 @@
                "reps" : 12,
                "weight" : 110
             }
-         ],
-         "unit" : 1,
-         "label" : "ISO lateral d.y. row"
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
+         ]
       },
       {
+         "unit" : 1,
+         "label" : "Vertical traction",
          "sets" : [
             {
-<<<<<<< HEAD
-               "reps" : 10,
                "date" : 1386779024773,
+               "reps" : 10,
                "weight" : 120
-=======
-               "date" : 1386779024773,
-               "weight" : 120,
-               "reps" : 10
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
             },
             {
-               "weight" : 120,
+               "date" : 1386779087816,
                "reps" : 10,
-               "date" : 1386779087816
+               "weight" : 120
             },
             {
-<<<<<<< HEAD
-               "weight" : 120,
-               "reps" : 7,
-               "date" : 1386779164092
-            }
-         ],
-         "label" : "Vertical traction",
-         "unit" : 1
-      },
-      {
-=======
                "date" : 1386779164092,
                "reps" : 7,
                "weight" : 120
             }
-         ],
-         "unit" : 1,
-         "label" : "Vertical traction"
+         ]
       },
       {
-         "label" : "Ab machine",
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
          "unit" : 1,
+         "label" : "Ab machine",
          "sets" : [
             {
+               "date" : 1386779254756,
                "weight" : 120,
-               "reps" : 12,
-               "date" : 1386779254756
+               "reps" : 12
             },
             {
-<<<<<<< HEAD
-               "weight" : 120,
                "reps" : 10,
-               "date" : 1386779337149
-            },
-            {
-               "weight" : 120,
-               "date" : 1386779416249,
-               "reps" : 5
-            }
-         ],
-         "label" : "Ab machine"
-      },
-      {
-         "unit" : 1,
-         "label" : "ISO lateral high row",
-         "sets" : []
-      },
-      {
-         "sets" : [],
-         "label" : "Shoulder Press",
-         "unit" : 1
-=======
                "date" : 1386779337149,
-               "weight" : 120,
-               "reps" : 10
+               "weight" : 120
             },
             {
+               "reps" : 5,
                "date" : 1386779416249,
-               "weight" : 120,
-               "reps" : 5
+               "weight" : 120
             }
          ]
       },
@@ -196,31 +105,19 @@
          "label" : "Shoulder Press",
          "unit" : 1,
          "sets" : []
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
       },
       {
-         "sets" : [],
          "label" : "Chin up (wide)",
-         "unit" : 1
+         "unit" : 1,
+         "sets" : []
       },
       {
-<<<<<<< HEAD
          "unit" : 1,
          "label" : "Chin up (right)",
          "sets" : []
       }
    ],
-   "start_date" : 1386778324881,
-   "fb_user" : "588163239",
+   "label" : "Upper body",
    "end_date" : 1386779416249,
-   "label" : "Upper body"
-=======
-         "sets" : [],
-         "unit" : 1,
-         "label" : "Chin up (right)"
-      }
-   ],
-   "end_date" : 1386779416249,
-   "fb_user" : "588163239"
->>>>>>> 81d217ab718848b99fb09a4a95f3b0f6051d062f
+   "start_date" : 1386778324881
 }
