@@ -1,0 +1,112 @@
+{
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Incline press",
+         "sets" : [
+            {
+               "weight" : 150,
+               "reps" : 8,
+               "date" : 1403138594476
+            },
+            {
+               "reps" : 6,
+               "date" : 1403138739558,
+               "weight" : 150
+            },
+            {
+               "weight" : 135,
+               "date" : 1403138880047,
+               "reps" : 5
+            },
+            {
+               "date" : 1403138881109,
+               "reps" : 6,
+               "weight" : 120
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 120,
+               "date" : 1403139000647,
+               "reps" : 10
+            },
+            {
+               "date" : 1403139099173,
+               "reps" : 10,
+               "weight" : 120
+            },
+            {
+               "weight" : 120,
+               "date" : 1403139221412,
+               "reps" : 10
+            },
+            {
+               "weight" : 120,
+               "date" : 1403139355448,
+               "reps" : 8
+            }
+         ],
+         "label" : "Cable row"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 105,
+               "reps" : 10,
+               "date" : 1403139569087
+            },
+            {
+               "weight" : 105,
+               "date" : 1403139570114,
+               "reps" : 10
+            },
+            {
+               "reps" : 8,
+               "date" : 1403139684788,
+               "weight" : 105
+            },
+            {
+               "reps" : 9,
+               "date" : 1403139801356,
+               "weight" : 90
+            }
+         ],
+         "label" : "Shoulder Press"
+      },
+      {
+         "unit" : 1,
+         "label" : "Lat pull down (Palm in)",
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1403139875898
+            },
+            {
+               "reps" : 8,
+               "date" : 1403139980391,
+               "weight" : 120
+            },
+            {
+               "weight" : 120,
+               "date" : 1403140075155,
+               "reps" : 8
+            },
+            {
+               "weight" : 120,
+               "date" : 1403140183662,
+               "reps" : 7
+            }
+         ]
+      }
+   ],
+   "end_date" : 1403140183662,
+   "fb_user" : "588163239",
+   "start_date" : 1403138480588
+}
