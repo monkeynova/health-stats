@@ -1,0 +1,112 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1404349433356,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "date" : 1404349586258,
+               "reps" : 8
+            },
+            {
+               "weight" : 150,
+               "date" : 1404349676282,
+               "reps" : 6
+            },
+            {
+               "date" : 1404349743581,
+               "weight" : 135,
+               "reps" : 5
+            }
+         ],
+         "label" : "Incline press",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1404349747698,
+               "weight" : 135,
+               "reps" : 8
+            },
+            {
+               "weight" : 135,
+               "date" : 1404349909613,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1404349989722,
+               "weight" : 135
+            },
+            {
+               "reps" : 5,
+               "weight" : 135,
+               "date" : 1404350067639
+            }
+         ],
+         "label" : "Cable row"
+      },
+      {
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "date" : 1404350072203,
+               "weight" : 120,
+               "reps" : 8
+            },
+            {
+               "date" : 1404350244822,
+               "weight" : 120,
+               "reps" : 8
+            },
+            {
+               "reps" : 6,
+               "date" : 1404350332694,
+               "weight" : 120
+            },
+            {
+               "date" : 1404350431994,
+               "weight" : 105,
+               "reps" : 7
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1404350442053
+            },
+            {
+               "date" : 1404350655168,
+               "weight" : 135,
+               "reps" : 7
+            },
+            {
+               "weight" : 120,
+               "date" : 1404350658852,
+               "reps" : 7
+            },
+            {
+               "reps" : 6,
+               "date" : 1404350863236,
+               "weight" : 120
+            }
+         ],
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1
+      }
+   ],
+   "label" : "Upper body",
+   "fb_user" : "588163239",
+   "end_date" : 1404350863236,
+   "start_date" : 1404349421375
+}

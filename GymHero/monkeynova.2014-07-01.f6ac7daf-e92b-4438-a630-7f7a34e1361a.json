@@ -1,0 +1,112 @@
+{
+   "fb_user" : "588163239",
+   "end_date" : 1404178670318,
+   "start_date" : 1404177041118,
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "weight" : 135,
+               "date" : 1404177081605,
+               "reps" : 8
+            },
+            {
+               "weight" : 135,
+               "date" : 1404177223246,
+               "reps" : 8
+            },
+            {
+               "weight" : 135,
+               "date" : 1404177333284,
+               "reps" : 8
+            },
+            {
+               "date" : 1404177459775,
+               "weight" : 135,
+               "reps" : 7
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 150,
+               "date" : 1404177463134,
+               "reps" : 8
+            },
+            {
+               "weight" : 150,
+               "date" : 1404177677714,
+               "reps" : 8
+            },
+            {
+               "reps" : 7,
+               "date" : 1404177769795,
+               "weight" : 150
+            },
+            {
+               "weight" : 135,
+               "date" : 1404177883848,
+               "reps" : 7
+            }
+         ],
+         "label" : "Incline press",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 120,
+               "date" : 1404177894056
+            },
+            {
+               "reps" : 8,
+               "date" : 1404178092272,
+               "weight" : 120
+            },
+            {
+               "reps" : 8,
+               "date" : 1404178198463,
+               "weight" : 120
+            },
+            {
+               "reps" : 8,
+               "date" : 1404178297184,
+               "weight" : 120
+            }
+         ],
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "weight" : 120,
+               "date" : 1404178301721,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1404178484462,
+               "weight" : 120
+            },
+            {
+               "reps" : 5,
+               "weight" : 120,
+               "date" : 1404178578286
+            },
+            {
+               "reps" : 7,
+               "weight" : 105,
+               "date" : 1404178670318
+            }
+         ]
+      }
+   ],
+   "label" : "Upper body"
+}

@@ -1,31 +1,33 @@
 {
    "muscle_groups" : {
-      "Bicep curls" : 1,
-      "Sit ups" : 5,
-      "Barbell curl" : 1,
-      "Seated rows" : 3,
-      "Bench press" : 2,
-      "Pull ups" : 1,
-      "Crunches" : 5,
-      "Incline bench press" : 2,
-      "Lat pull" : 3,
-      "Seated calf raise" : 6,
-      "Shrugs" : 4,
-      "Calf raise" : 6,
-      "Leg curls" : 6,
-      "Squats" : 6,
-      "Dips" : 1,
-      "Butterflies" : 2,
-      "Pushups" : 2,
-      "Hammer curl" : 1,
-      "Preacher curl" : 1,
-      "Leg extension" : 6,
-      "Deadlifts" : 3,
-      "Chin ups" : 1,
-      "Shoulder press" : 4,
       "Flies" : 2,
-      "Leg press" : 6
+      "Lat pull" : 3,
+      "Sit ups" : 5,
+      "Bicep curls" : 1,
+      "Leg curls" : 6,
+      "Butterflies" : 2,
+      "Shrugs" : 4,
+      "Seated rows" : 3,
+      "Deadlifts" : 3,
+      "Leg press" : 6,
+      "Hammer curl" : 1,
+      "Leg extension" : 6,
+      "Seated calf raise" : 6,
+      "Preacher curl" : 1,
+      "Barbell curl" : 1,
+      "Chin ups" : 1,
+      "Crunches" : 5,
+      "Pull ups" : 1,
+      "Pushups" : 2,
+      "Incline bench press" : 2,
+      "Shoulder press" : 4,
+      "Bench press" : 2,
+      "Dips" : 1,
+      "Squats" : 6,
+      "Calf raise" : 6
    },
+   "success" : true,
+   "username" : "monkeynova",
    "username_literal" : "Monkeynova",
    "workouts" : [
       [
@@ -1108,8 +1110,54 @@
             "Shoulder Press",
             "Lat pull down (Palm in)"
          ]
+      ],
+      [
+         "Upper body",
+         "f35baf05-506b-4a17-b009-e7f8e8e77e62",
+         1403571173980,
+         1403572149834,
+         4,
+         10,
+         74,
+         10170,
+         [
+            "Incline press",
+            "Cable row",
+            "Shoulder Press",
+            "Lat pull down (Palm in)"
+         ]
+      ],
+      [
+         "Upper body",
+         "f6ac7daf-e92b-4438-a630-7f7a34e1361a",
+         1404177041118,
+         1404178670318,
+         4,
+         16,
+         121,
+         15675,
+         [
+            "Cable row",
+            "Incline press",
+            "Lat pull down (Palm in)",
+            "Shoulder Press"
+         ]
+      ],
+      [
+         "Upper body",
+         "8ab9afd9-57cd-4e49-8e52-61b3e7771d7c",
+         1404349421375,
+         1404350863236,
+         4,
+         16,
+         113,
+         14850,
+         [
+            "Incline press",
+            "Cable row",
+            "Shoulder Press",
+            "Lat pull down (Palm in)"
+         ]
       ]
-   ],
-   "success" : true,
-   "username" : "monkeynova"
+   ]
 }

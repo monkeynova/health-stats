@@ -1,0 +1,81 @@
+{
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "Incline press",
+         "sets" : [
+            {
+               "date" : 1403571179160,
+               "weight" : 150,
+               "reps" : 8
+            },
+            {
+               "weight" : 150,
+               "date" : 1403571354950,
+               "reps" : 8
+            },
+            {
+               "reps" : 7,
+               "weight" : 150,
+               "date" : 1403571466971
+            },
+            {
+               "date" : 1403571589469,
+               "weight" : 150,
+               "reps" : 5
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "date" : 1403571609524,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1403571743206
+            },
+            {
+               "date" : 1403571849030,
+               "weight" : 135,
+               "reps" : 8
+            },
+            {
+               "date" : 1403571958350,
+               "weight" : 135,
+               "reps" : 6
+            }
+         ],
+         "label" : "Cable row"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 120,
+               "date" : 1403572051767,
+               "reps" : 8
+            },
+            {
+               "date" : 1403572149834,
+               "weight" : 120,
+               "reps" : 8
+            }
+         ],
+         "label" : "Shoulder Press"
+      },
+      {
+         "unit" : 1,
+         "label" : "Lat pull down (Palm in)",
+         "sets" : []
+      }
+   ],
+   "label" : "Upper body",
+   "fb_user" : "588163239",
+   "start_date" : 1403571173980,
+   "end_date" : 1403572149834
+}
