@@ -1,0 +1,180 @@
+{
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "ISO lateral bench press",
+         "sets" : [
+            {
+               "weight" : 90,
+               "reps" : 8,
+               "date" : 1406073553320
+            },
+            {
+               "weight" : 140,
+               "reps" : 6,
+               "date" : 1406073620268
+            },
+            {
+               "weight" : 130,
+               "date" : 1406073695255,
+               "reps" : 6
+            },
+            {
+               "reps" : 5,
+               "date" : 1406073783708,
+               "weight" : 130
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "ISO lateral d.y. row",
+         "sets" : [
+            {
+               "weight" : 140,
+               "date" : 1406073917468,
+               "reps" : 8
+            },
+            {
+               "weight" : 140,
+               "date" : 1406073987519,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1406074079413,
+               "weight" : 140
+            },
+            {
+               "reps" : 10,
+               "date" : 1406074169055,
+               "weight" : 140
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1406074288063
+            },
+            {
+               "date" : 1406074302251,
+               "reps" : 8,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "reps" : 8,
+               "date" : 1406074464214
+            },
+            {
+               "weight" : 150,
+               "reps" : 7,
+               "date" : 1406074582879
+            }
+         ],
+         "unit" : 1,
+         "label" : "Incline chest"
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1406074728845,
+               "weight" : 140
+            },
+            {
+               "weight" : 160,
+               "reps" : 8,
+               "date" : 1406074734413
+            },
+            {
+               "date" : 1406074873706,
+               "reps" : 8,
+               "weight" : 160
+            },
+            {
+               "weight" : 160,
+               "date" : 1406074992442,
+               "reps" : 10
+            }
+         ],
+         "label" : "ISO lateral high row",
+         "unit" : 1
+      },
+      {
+         "label" : "Lateral Raise",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 50,
+               "reps" : 8,
+               "date" : 1406075058935
+            },
+            {
+               "weight" : 60,
+               "reps" : 8,
+               "date" : 1406075101342
+            },
+            {
+               "date" : 1406075184938,
+               "reps" : 8,
+               "weight" : 50
+            },
+            {
+               "date" : 1406075366848,
+               "reps" : 9,
+               "weight" : 50
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Lat pull down (Palm in)",
+         "sets" : [
+            {
+               "date" : 1406075490393,
+               "reps" : 6,
+               "weight" : 150
+            },
+            {
+               "reps" : 7,
+               "date" : 1406075585974,
+               "weight" : 135
+            }
+         ]
+      },
+      {
+         "label" : "Shoulder press",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1406075648882
+            },
+            {
+               "date" : 1406075689994,
+               "reps" : 8,
+               "weight" : 120
+            },
+            {
+               "date" : 1406075868779,
+               "reps" : 5,
+               "weight" : 120
+            },
+            {
+               "date" : 1406075976680,
+               "reps" : 8,
+               "weight" : 105
+            }
+         ]
+      }
+   ],
+   "fb_user" : "588163239",
+   "start_date" : 1406073443411,
+   "end_date" : 1406075976680
+}

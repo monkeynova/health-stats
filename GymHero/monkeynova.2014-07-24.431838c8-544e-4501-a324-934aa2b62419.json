@@ -1,0 +1,112 @@
+{
+   "label" : "Upper body",
+   "exercises" : [
+      {
+         "label" : "Incline chest",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 150,
+               "reps" : 8,
+               "date" : 1406238489318
+            },
+            {
+               "weight" : 150,
+               "date" : 1406238571808,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1406238669150,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "reps" : 7,
+               "date" : 1406238778907
+            }
+         ]
+      },
+      {
+         "label" : "Cable row",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1406238788508
+            },
+            {
+               "date" : 1406238927907,
+               "reps" : 8,
+               "weight" : 135
+            },
+            {
+               "weight" : 135,
+               "date" : 1406239022285,
+               "reps" : 8
+            },
+            {
+               "date" : 1406239126634,
+               "reps" : 7,
+               "weight" : 135
+            }
+         ]
+      },
+      {
+         "unit" : 1,
+         "label" : "Shoulder Press",
+         "sets" : [
+            {
+               "weight" : 135,
+               "date" : 1406239137715,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1406239270872,
+               "weight" : 135
+            },
+            {
+               "reps" : 5,
+               "date" : 1406239350985,
+               "weight" : 135
+            },
+            {
+               "weight" : 120,
+               "date" : 1406239440638,
+               "reps" : 7
+            }
+         ]
+      },
+      {
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1406239614160
+            },
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1406239615350
+            },
+            {
+               "weight" : 135,
+               "reps" : 6,
+               "date" : 1406239701673
+            },
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1406239790607
+            }
+         ]
+      }
+   ],
+   "fb_user" : "588163239",
+   "start_date" : 1406238411435,
+   "end_date" : 1406239790607
+}
