@@ -1,0 +1,133 @@
+{
+   "start_date" : 1406769398378,
+   "end_date" : 1406771067467,
+   "label" : "Upper body",
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1406769431917
+            },
+            {
+               "weight" : 135,
+               "date" : 1406769541198,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1406769630754,
+               "weight" : 135
+            },
+            {
+               "reps" : 7,
+               "weight" : 135,
+               "date" : 1406769724751
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1406769735702,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "date" : 1406769880096,
+               "reps" : 8
+            },
+            {
+               "date" : 1406769970010,
+               "weight" : 150,
+               "reps" : 8
+            },
+            {
+               "reps" : 9,
+               "date" : 1406770057873,
+               "weight" : 150
+            }
+         ],
+         "label" : "Incline chest"
+      },
+      {
+         "label" : "Lat pull down (Palm in)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 135,
+               "date" : 1406770090717,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1406770222299
+            },
+            {
+               "reps" : 6,
+               "weight" : 135,
+               "date" : 1406770323329
+            },
+            {
+               "weight" : 120,
+               "date" : 1406770327630,
+               "reps" : 6
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1406770516350,
+               "weight" : 60,
+               "reps" : 8
+            },
+            {
+               "weight" : 60,
+               "date" : 1406770585849,
+               "reps" : 8
+            },
+            {
+               "date" : 1406770668030,
+               "weight" : 60,
+               "reps" : 8
+            },
+            {
+               "weight" : 60,
+               "date" : 1406770764816,
+               "reps" : 6
+            }
+         ],
+         "unit" : 1,
+         "label" : "Overhead press (dumbell)"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 80,
+               "date" : 1406770902222,
+               "reps" : 10
+            },
+            {
+               "reps" : 10,
+               "weight" : 80,
+               "date" : 1406770976097
+            },
+            {
+               "reps" : 8,
+               "weight" : 80,
+               "date" : 1406771067467
+            }
+         ],
+         "label" : "Leg lifts"
+      }
+   ]
+}
