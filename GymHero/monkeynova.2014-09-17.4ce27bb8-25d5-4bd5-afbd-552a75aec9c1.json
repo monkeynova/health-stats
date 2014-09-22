@@ -1,0 +1,101 @@
+{
+   "start_date" : 1410913633692,
+   "label" : "N Foo Challenges",
+   "exercises" : [
+      {
+         "label" : "Push Ups",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 21,
+               "date" : 1410913688712
+            },
+            {
+               "date" : 1410914013262,
+               "weight" : 155,
+               "reps" : 25
+            },
+            {
+               "weight" : 155,
+               "reps" : 21,
+               "date" : 1410914016347
+            },
+            {
+               "date" : 1410914186703,
+               "reps" : 21,
+               "weight" : 155
+            },
+            {
+               "reps" : 19,
+               "weight" : 155,
+               "date" : 1410914417431
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1410914557385,
+               "reps" : 6,
+               "weight" : 155
+            },
+            {
+               "date" : 1410914695801,
+               "reps" : 5,
+               "weight" : 155
+            },
+            {
+               "reps" : 4,
+               "weight" : 155,
+               "date" : 1410914831236
+            },
+            {
+               "date" : 1410915029089,
+               "weight" : 155,
+               "reps" : 4
+            },
+            {
+               "date" : 1410915228309,
+               "reps" : 3,
+               "weight" : 155
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin Ups"
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1410915374194,
+               "weight" : 155,
+               "reps" : 18
+            },
+            {
+               "date" : 1410915460127,
+               "reps" : 18,
+               "weight" : 155
+            },
+            {
+               "weight" : 155,
+               "reps" : 13,
+               "date" : 1410915545827
+            },
+            {
+               "date" : 1410915630582,
+               "reps" : 13,
+               "weight" : 155
+            },
+            {
+               "date" : 1410915727162,
+               "reps" : 18,
+               "weight" : 155
+            }
+         ],
+         "unit" : 1,
+         "label" : "Tricep Dip"
+      }
+   ],
+   "end_date" : 1410915727162,
+   "fb_user" : "588163239"
+}

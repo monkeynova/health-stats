@@ -1,0 +1,68 @@
+{
+   "label" : "N Foo Challenges",
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 26,
+               "date" : 1408745608710
+            }
+         ],
+         "unit" : 1,
+         "label" : "Push Ups"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 28,
+               "date" : 1408745799879
+            }
+         ],
+         "label" : "Sit Ups"
+      },
+      {
+         "label" : "Squat (BW)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1408746224197,
+               "reps" : 80,
+               "weight" : 155
+            },
+            {
+               "weight" : 155,
+               "reps" : 20,
+               "date" : 1408746232566
+            }
+         ]
+      },
+      {
+         "label" : "Tricep Dip (BW)",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 20,
+               "weight" : 155,
+               "date" : 1408746399406
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 7,
+               "weight" : 155,
+               "date" : 1408746627131
+            }
+         ],
+         "unit" : 1,
+         "label" : "Chin Ups"
+      }
+   ],
+   "start_date" : 1408745492236,
+   "fb_user" : "588163239",
+   "end_date" : 1408746627131
+}

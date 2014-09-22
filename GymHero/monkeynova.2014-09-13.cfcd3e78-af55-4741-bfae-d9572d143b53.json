@@ -1,0 +1,101 @@
+{
+   "fb_user" : "588163239",
+   "end_date" : 1410570512797,
+   "start_date" : 1410568359073,
+   "label" : "N Foo Challenges",
+   "exercises" : [
+      {
+         "label" : "Push Ups",
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 20,
+               "weight" : 155,
+               "date" : 1410568429660
+            },
+            {
+               "reps" : 25,
+               "weight" : 155,
+               "date" : 1410568641094
+            },
+            {
+               "weight" : 155,
+               "reps" : 15,
+               "date" : 1410568795811
+            },
+            {
+               "reps" : 15,
+               "weight" : 155,
+               "date" : 1410568948944
+            },
+            {
+               "date" : 1410569106935,
+               "weight" : 155,
+               "reps" : 13
+            }
+         ]
+      },
+      {
+         "label" : "Chin Ups",
+         "sets" : [
+            {
+               "reps" : 4,
+               "weight" : 155,
+               "date" : 1410569242737
+            },
+            {
+               "weight" : 155,
+               "reps" : 4,
+               "date" : 1410569348074
+            },
+            {
+               "weight" : 155,
+               "reps" : 3,
+               "date" : 1410569478752
+            },
+            {
+               "date" : 1410569583704,
+               "weight" : 155,
+               "reps" : 4
+            },
+            {
+               "date" : 1410569699670,
+               "weight" : 155,
+               "reps" : 5
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "Tricep Dip",
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 13,
+               "date" : 1410569927563
+            },
+            {
+               "date" : 1410570150859,
+               "reps" : 15,
+               "weight" : 155
+            },
+            {
+               "date" : 1410570254958,
+               "reps" : 10,
+               "weight" : 155
+            },
+            {
+               "date" : 1410570377830,
+               "weight" : 155,
+               "reps" : 10
+            },
+            {
+               "date" : 1410570512797,
+               "weight" : 155,
+               "reps" : 21
+            }
+         ]
+      }
+   ]
+}

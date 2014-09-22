@@ -1,0 +1,101 @@
+{
+   "end_date" : 1409357372948,
+   "fb_user" : "588163239",
+   "start_date" : 1409355425465,
+   "exercises" : [
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 22,
+               "date" : 1409355532367
+            },
+            {
+               "reps" : 21,
+               "weight" : 155,
+               "date" : 1409355875384
+            },
+            {
+               "date" : 1409356037436,
+               "weight" : 155,
+               "reps" : 11
+            },
+            {
+               "reps" : 10,
+               "weight" : 155,
+               "date" : 1409356039237
+            },
+            {
+               "weight" : 155,
+               "reps" : 10,
+               "date" : 1409356194144
+            }
+         ],
+         "label" : "Push Ups"
+      },
+      {
+         "label" : "Chin Ups",
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1409356300886,
+               "reps" : 4,
+               "weight" : 155
+            },
+            {
+               "weight" : 155,
+               "reps" : 4,
+               "date" : 1409356434832
+            },
+            {
+               "weight" : 155,
+               "reps" : 4,
+               "date" : 1409356571466
+            },
+            {
+               "reps" : 3,
+               "weight" : 155,
+               "date" : 1409356717137
+            },
+            {
+               "date" : 1409356870889,
+               "reps" : 5,
+               "weight" : 155
+            }
+         ]
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1409356939931,
+               "reps" : 12,
+               "weight" : 155
+            },
+            {
+               "date" : 1409357046643,
+               "reps" : 15,
+               "weight" : 155
+            },
+            {
+               "weight" : 155,
+               "reps" : 11,
+               "date" : 1409357158685
+            },
+            {
+               "date" : 1409357371381,
+               "weight" : 155,
+               "reps" : 11
+            },
+            {
+               "date" : 1409357372948,
+               "reps" : 13,
+               "weight" : 155
+            }
+         ],
+         "unit" : 1,
+         "label" : "Sit Ups"
+      }
+   ],
+   "label" : "N Foo Challenges"
+}
