@@ -1,0 +1,97 @@
+{
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 70,
+               "date" : 1413246009952,
+               "reps" : 12
+            },
+            {
+               "weight" : 90,
+               "date" : 1413246057807,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1413246188276,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 8,
+               "date" : 1413246277438
+            }
+         ],
+         "label" : "ISO lateral bench press",
+         "unit" : 1
+      },
+      {
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413246323151
+            },
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413246439576
+            },
+            {
+               "reps" : 8,
+               "date" : 1413246541744,
+               "weight" : 120
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1413246603883,
+               "weight" : 55
+            },
+            {
+               "reps" : 8,
+               "date" : 1413246729450,
+               "weight" : 55
+            },
+            {
+               "weight" : 55,
+               "reps" : 6,
+               "date" : 1413246827871
+            }
+         ],
+         "label" : "Overhead press (dumbell)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Lat pull down",
+         "sets" : [
+            {
+               "weight" : 120,
+               "date" : 1413246925872,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "date" : 1413247018878,
+               "weight" : 120
+            },
+            {
+               "reps" : 7,
+               "date" : 1413247127626,
+               "weight" : 120
+            }
+         ]
+      }
+   ],
+   "fb_user" : "588163239",
+   "label" : "Big 6",
+   "end_date" : 1413247127626,
+   "start_date" : 1413245910479
+}

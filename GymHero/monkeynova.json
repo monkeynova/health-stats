@@ -1,33 +1,34 @@
 {
-   "username" : "monkeynova",
+   "username_literal" : "Monkeynova",
+   "success" : true,
    "muscle_groups" : {
-      "Preacher curl" : 1,
+      "Bench press" : 2,
+      "Dips" : 1,
+      "Seated calf raise" : 6,
       "Shoulder press" : 4,
-      "Barbell curl" : 1,
-      "Leg extension" : 6,
-      "Sit ups" : 5,
-      "Pull ups" : 1,
-      "Incline bench press" : 2,
-      "Leg press" : 6,
-      "Leg curls" : 6,
-      "Shrugs" : 4,
-      "Flies" : 2,
-      "Hammer curl" : 1,
+      "Calf raise" : 6,
       "Lat pull" : 3,
       "Seated rows" : 3,
-      "Bicep curls" : 1,
+      "Leg curls" : 6,
       "Crunches" : 5,
-      "Deadlifts" : 3,
-      "Pushups" : 2,
-      "Chin ups" : 1,
-      "Seated calf raise" : 6,
-      "Calf raise" : 6,
+      "Pull ups" : 1,
+      "Incline bench press" : 2,
+      "Shrugs" : 4,
       "Squats" : 6,
-      "Dips" : 1,
-      "Bench press" : 2,
-      "Butterflies" : 2
+      "Deadlifts" : 3,
+      "Barbell curl" : 1,
+      "Bicep curls" : 1,
+      "Chin ups" : 1,
+      "Preacher curl" : 1,
+      "Leg press" : 6,
+      "Butterflies" : 2,
+      "Sit ups" : 5,
+      "Leg extension" : 6,
+      "Flies" : 2,
+      "Hammer curl" : 1,
+      "Pushups" : 2
    },
-   "username_literal" : "Monkeynova",
+   "username" : "monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -1496,7 +1497,38 @@
             "Chin Ups",
             "Tricep Dip"
          ]
+      ],
+      [
+         "Big 6",
+         "1d4465e1-59a7-4db9-91e5-5e8ca15923d5",
+         1413245910479,
+         1413247127626,
+         4,
+         13,
+         105,
+         9850,
+         [
+            "ISO lateral bench press",
+            "Cable row",
+            "Overhead press (dumbell)",
+            "Lat pull down"
+         ]
+      ],
+      [
+         "Big 6",
+         "23c15912-86cd-4083-bc9f-e6208742c4b5",
+         1413503173831,
+         1413504859664,
+         4,
+         17,
+         128,
+         14115,
+         [
+            "ISO lateral bench press",
+            "Cable row",
+            "Shoulder Press",
+            "Lat pull down"
+         ]
       ]
-   ],
-   "success" : true
+   ]
 }

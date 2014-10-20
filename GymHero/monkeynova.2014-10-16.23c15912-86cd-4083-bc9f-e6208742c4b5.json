@@ -1,0 +1,117 @@
+{
+   "fb_user" : "588163239",
+   "end_date" : 1413504859664,
+   "label" : "Big 6",
+   "start_date" : 1413503173831,
+   "exercises" : [
+      {
+         "unit" : 1,
+         "label" : "ISO lateral bench press",
+         "sets" : [
+            {
+               "date" : 1413503260482,
+               "reps" : 8,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "date" : 1413503351369,
+               "reps" : 8
+            },
+            {
+               "date" : 1413503438485,
+               "reps" : 8,
+               "weight" : 90
+            },
+            {
+               "weight" : 90,
+               "reps" : 8,
+               "date" : 1413503543674
+            },
+            {
+               "weight" : 90,
+               "date" : 1413503656676,
+               "reps" : 8
+            }
+         ]
+      },
+      {
+         "label" : "Cable row",
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413503697410
+            },
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413503838919
+            },
+            {
+               "weight" : 120,
+               "date" : 1413503938474,
+               "reps" : 8
+            },
+            {
+               "weight" : 120,
+               "reps" : 6,
+               "date" : 1413504036358
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 6,
+               "date" : 1413504103472,
+               "weight" : 135
+            },
+            {
+               "reps" : 6,
+               "date" : 1413504215022,
+               "weight" : 135
+            },
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413504313423
+            },
+            {
+               "weight" : 120,
+               "date" : 1413504408042,
+               "reps" : 7
+            }
+         ],
+         "label" : "Shoulder Press"
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 120,
+               "reps" : 8,
+               "date" : 1413504428628
+            },
+            {
+               "reps" : 8,
+               "date" : 1413504602883,
+               "weight" : 120
+            },
+            {
+               "date" : 1413504716314,
+               "reps" : 8,
+               "weight" : 105
+            },
+            {
+               "weight" : 105,
+               "reps" : 7,
+               "date" : 1413504859664
+            }
+         ],
+         "label" : "Lat pull down",
+         "unit" : 1
+      }
+   ]
+}
