@@ -29,8 +29,11 @@ my $user_perl = from_json( $user_json );
 foreach my $workout ( @{ $user_perl->{workouts} } )
 {
     my ( $name, $workout_id, $start, $end, undef, undef, undef, undef, $exercises_aref ) = @$workout;
-    my $ymd = DateTime->from_epoch( epoch => $start / 1000 )->ymd;
-    my $fname = "$username.$ymd.$workout_id.json";
+    my $dt = DateTime->from_epoch( epoch => $start / 1000 );
+    my $year = $dt->year;
+    mkdir $year if ! -d $year;
+    my $ymd = $dt->ymd;
+    my $fname = "$year/$ymd.$workout_id.json";
     next if -f $fname && ! $all;
     print "fetching $fname\n";
     my $workout_url = "http://api.gymheroapp.com/workouts/$workout_id";

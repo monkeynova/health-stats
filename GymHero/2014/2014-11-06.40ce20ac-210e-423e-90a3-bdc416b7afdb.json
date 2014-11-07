@@ -1,0 +1,138 @@
+{
+   "end_date" : 1415316443289,
+   "label" : "Big 6",
+   "start_date" : 1415314262231,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "label" : "Chin up (right)",
+         "sets" : [
+            {
+               "weight" : 150,
+               "date" : 1415314328214,
+               "reps" : 6
+            },
+            {
+               "date" : 1415314413532,
+               "weight" : 150,
+               "reps" : 6
+            },
+            {
+               "reps" : 6,
+               "date" : 1415314513221,
+               "weight" : 150
+            },
+            {
+               "weight" : 150,
+               "date" : 1415314620467,
+               "reps" : 6
+            },
+            {
+               "reps" : 3,
+               "weight" : 150,
+               "date" : 1415314710481
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "label" : "Squat",
+         "sets" : [
+            {
+               "date" : 1415314940600,
+               "weight" : 105,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "weight" : 105,
+               "date" : 1415314941755
+            },
+            {
+               "reps" : 8,
+               "date" : 1415315062936,
+               "weight" : 105
+            },
+            {
+               "reps" : 8,
+               "weight" : 105,
+               "date" : 1415315194792
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1415315291711,
+               "weight" : 105
+            },
+            {
+               "reps" : 8,
+               "weight" : 115,
+               "date" : 1415315442996
+            },
+            {
+               "reps" : 8,
+               "date" : 1415315711316,
+               "weight" : 115
+            },
+            {
+               "date" : 1415315712126,
+               "weight" : 115,
+               "reps" : 8
+            }
+         ],
+         "label" : "Bench press"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 8,
+               "date" : 1415315748139,
+               "weight" : 105
+            },
+            {
+               "date" : 1415315919374,
+               "weight" : 105,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "weight" : 105,
+               "date" : 1415316015175
+            },
+            {
+               "date" : 1415316133227,
+               "weight" : 105,
+               "reps" : 8
+            }
+         ],
+         "label" : "Cable row"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "weight" : 60,
+               "date" : 1415316216429,
+               "reps" : 8
+            },
+            {
+               "weight" : 60,
+               "date" : 1415316336819,
+               "reps" : 8
+            },
+            {
+               "date" : 1415316443289,
+               "weight" : 60,
+               "reps" : 6
+            }
+         ],
+         "label" : "Overhead press (dumbell)"
+      }
+   ]
+}
