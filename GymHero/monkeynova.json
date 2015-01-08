@@ -1,33 +1,5 @@
 {
    "username" : "monkeynova",
-   "muscle_groups" : {
-      "Pushups" : 2,
-      "Shrugs" : 4,
-      "Barbell curl" : 1,
-      "Incline bench press" : 2,
-      "Preacher curl" : 1,
-      "Bicep curls" : 1,
-      "Lat pull" : 3,
-      "Chin ups" : 1,
-      "Calf raise" : 6,
-      "Bench press" : 2,
-      "Squats" : 6,
-      "Crunches" : 5,
-      "Seated rows" : 3,
-      "Leg press" : 6,
-      "Deadlifts" : 3,
-      "Shoulder press" : 4,
-      "Butterflies" : 2,
-      "Leg curls" : 6,
-      "Pull ups" : 1,
-      "Hammer curl" : 1,
-      "Dips" : 1,
-      "Sit ups" : 5,
-      "Flies" : 2,
-      "Seated calf raise" : 6,
-      "Leg extension" : 6
-   },
-   "username_literal" : "Monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -1596,7 +1568,52 @@
             "Cable row",
             "Overhead press (dumbell)"
          ]
+      ],
+      [
+         "Big 6",
+         "e0ebd254-73cc-45af-981a-a908bc529ee7",
+         1420564313911,
+         1420566343637,
+         5,
+         20,
+         167,
+         12560,
+         [
+            "Squat",
+            "Chin up (right)",
+            "Bench press",
+            "Dumbell row",
+            "Overhead press (dumbell)"
+         ]
       ]
    ],
+   "username_literal" : "Monkeynova",
+   "muscle_groups" : {
+      "Bicep curls" : 1,
+      "Preacher curl" : 1,
+      "Leg curls" : 6,
+      "Sit ups" : 5,
+      "Pushups" : 2,
+      "Chin ups" : 1,
+      "Barbell curl" : 1,
+      "Seated calf raise" : 6,
+      "Butterflies" : 2,
+      "Hammer curl" : 1,
+      "Incline bench press" : 2,
+      "Squats" : 6,
+      "Leg press" : 6,
+      "Deadlifts" : 3,
+      "Shoulder press" : 4,
+      "Pull ups" : 1,
+      "Lat pull" : 3,
+      "Flies" : 2,
+      "Leg extension" : 6,
+      "Calf raise" : 6,
+      "Crunches" : 5,
+      "Shrugs" : 4,
+      "Dips" : 1,
+      "Seated rows" : 3,
+      "Bench press" : 2
+   },
    "success" : true
 }
