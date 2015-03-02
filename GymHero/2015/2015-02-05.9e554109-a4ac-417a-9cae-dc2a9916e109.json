@@ -1,0 +1,54 @@
+{
+   "fb_user" : "588163239",
+   "start_date" : 1423159076601,
+   "label" : "Big 6",
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 115,
+               "date" : 1423159086635
+            },
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1423159177203
+            },
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1423159288625
+            },
+            {
+               "weight" : 135,
+               "reps" : 8,
+               "date" : 1423159458143
+            }
+         ],
+         "label" : "Squat",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1423159514763,
+               "reps" : 5,
+               "weight" : 160
+            },
+            {
+               "date" : 1423159611304,
+               "reps" : 5,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (right)"
+      },
+      {
+         "sets" : [],
+         "label" : "Bench press",
+         "unit" : 1
+      }
+   ]
+}

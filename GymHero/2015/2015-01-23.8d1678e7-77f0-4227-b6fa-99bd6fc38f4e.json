@@ -1,0 +1,102 @@
+{
+   "fb_user" : "588163239",
+   "start_date" : 1422035710445,
+   "end_date" : 1422037155297,
+   "exercises" : [
+      {
+         "sets" : [
+            {
+               "weight" : 95,
+               "reps" : 10,
+               "date" : 1422035722969
+            },
+            {
+               "date" : 1422035891517,
+               "weight" : 115,
+               "reps" : 8
+            },
+            {
+               "reps" : 8,
+               "weight" : 115,
+               "date" : 1422036007427
+            },
+            {
+               "date" : 1422036156233,
+               "reps" : 8,
+               "weight" : 115
+            }
+         ],
+         "label" : "Squat",
+         "unit" : 1
+      },
+      {
+         "label" : "Bench press",
+         "sets" : [
+            {
+               "date" : 1422036353457,
+               "weight" : 115,
+               "reps" : 12
+            },
+            {
+               "reps" : 8,
+               "weight" : 125,
+               "date" : 1422036358475
+            },
+            {
+               "date" : 1422036482022,
+               "weight" : 125,
+               "reps" : 8
+            },
+            {
+               "date" : 1422036602928,
+               "weight" : 125,
+               "reps" : 6
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 155,
+               "reps" : 6,
+               "date" : 1422036686228
+            },
+            {
+               "date" : 1422036777380,
+               "weight" : 155,
+               "reps" : 5
+            },
+            {
+               "date" : 1422036867424,
+               "weight" : 155,
+               "reps" : 3
+            }
+         ],
+         "label" : "Chin up (right)",
+         "unit" : 1
+      },
+      {
+         "label" : "Overhead press (dumbell)",
+         "sets" : [
+            {
+               "date" : 1422036955093,
+               "reps" : 12,
+               "weight" : 50
+            },
+            {
+               "weight" : 50,
+               "reps" : 8,
+               "date" : 1422037046916
+            },
+            {
+               "reps" : 6,
+               "weight" : 50,
+               "date" : 1422037155297
+            }
+         ],
+         "unit" : 1
+      }
+   ],
+   "label" : "Big 6"
+}

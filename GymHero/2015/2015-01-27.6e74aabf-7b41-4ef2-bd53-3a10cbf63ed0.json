@@ -1,0 +1,97 @@
+{
+   "start_date" : 1422381964442,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "label" : "Squat",
+         "sets" : [
+            {
+               "reps" : 8,
+               "weight" : 115,
+               "date" : 1422382059343
+            },
+            {
+               "date" : 1422382180571,
+               "reps" : 8,
+               "weight" : 125
+            },
+            {
+               "weight" : 125,
+               "reps" : 8,
+               "date" : 1422382312534
+            },
+            {
+               "reps" : 8,
+               "weight" : 125,
+               "date" : 1422382446282
+            }
+         ],
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "weight" : 160,
+               "reps" : 6,
+               "date" : 1422382488633
+            },
+            {
+               "date" : 1422382636748,
+               "reps" : 6,
+               "weight" : 160
+            },
+            {
+               "date" : 1422382743817,
+               "reps" : 4,
+               "weight" : 160
+            }
+         ],
+         "label" : "Chin up (right)",
+         "unit" : 1
+      },
+      {
+         "sets" : [
+            {
+               "date" : 1422382750286,
+               "reps" : 12,
+               "weight" : 50
+            },
+            {
+               "weight" : 50,
+               "reps" : 12,
+               "date" : 1422382935392
+            },
+            {
+               "weight" : 50,
+               "reps" : 12,
+               "date" : 1422383065131
+            }
+         ],
+         "label" : "Overhead press (dumbell)",
+         "unit" : 1
+      },
+      {
+         "unit" : 1,
+         "label" : "Bench press",
+         "sets" : [
+            {
+               "date" : 1422383178448,
+               "weight" : 115,
+               "reps" : 8
+            },
+            {
+               "weight" : 115,
+               "reps" : 6,
+               "date" : 1422383249342
+            },
+            {
+               "reps" : 6,
+               "weight" : 115,
+               "date" : 1422383352533
+            }
+         ]
+      }
+   ],
+   "label" : "Big 6",
+   "end_date" : 1422383352533
+}

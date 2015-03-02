@@ -1,0 +1,102 @@
+{
+   "start_date" : 1424281319787,
+   "fb_user" : "588163239",
+   "exercises" : [
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1424281480561,
+               "weight" : 115,
+               "reps" : 12
+            },
+            {
+               "date" : 1424281575269,
+               "weight" : 145,
+               "reps" : 8
+            },
+            {
+               "date" : 1424281679614,
+               "weight" : 145,
+               "reps" : 8
+            },
+            {
+               "date" : 1424281947111,
+               "reps" : 8,
+               "weight" : 145
+            }
+         ],
+         "label" : "Squat"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 115,
+               "date" : 1424281951193
+            },
+            {
+               "date" : 1424282026805,
+               "reps" : 8,
+               "weight" : 135
+            },
+            {
+               "reps" : 8,
+               "weight" : 135,
+               "date" : 1424282121156
+            },
+            {
+               "date" : 1424282226418,
+               "weight" : 135,
+               "reps" : 6
+            }
+         ],
+         "label" : "Bench press"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "date" : 1424282290302,
+               "reps" : 5,
+               "weight" : 160
+            },
+            {
+               "reps" : 5,
+               "weight" : 160,
+               "date" : 1424282373562
+            },
+            {
+               "date" : 1424282460526,
+               "weight" : 160,
+               "reps" : 3
+            }
+         ],
+         "label" : "Chin up (right)"
+      },
+      {
+         "unit" : 1,
+         "sets" : [
+            {
+               "reps" : 12,
+               "weight" : 65,
+               "date" : 1424282553108
+            },
+            {
+               "date" : 1424282689400,
+               "reps" : 10,
+               "weight" : 65
+            },
+            {
+               "date" : 1424282780281,
+               "reps" : 7,
+               "weight" : 65
+            }
+         ],
+         "label" : "Overhead press"
+      }
+   ],
+   "label" : "Big 6",
+   "end_date" : 1424282780281
+}
