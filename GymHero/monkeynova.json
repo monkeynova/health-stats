@@ -1,32 +1,32 @@
 {
+   "username_literal" : "Monkeynova",
    "muscle_groups" : {
-      "Seated rows" : 3,
-      "Lat pull" : 3,
-      "Leg curls" : 6,
-      "Sit ups" : 5,
-      "Chin ups" : 1,
-      "Bicep curls" : 1,
-      "Hammer curl" : 1,
-      "Squats" : 6,
       "Calf raise" : 6,
-      "Pushups" : 2,
-      "Leg press" : 6,
-      "Flies" : 2,
-      "Barbell curl" : 1,
-      "Dips" : 1,
-      "Leg extension" : 6,
-      "Pull ups" : 1,
-      "Incline bench press" : 2,
+      "Squats" : 6,
+      "Seated rows" : 3,
+      "Bicep curls" : 1,
       "Bench press" : 2,
-      "Butterflies" : 2,
-      "Seated calf raise" : 6,
       "Deadlifts" : 3,
+      "Barbell curl" : 1,
+      "Sit ups" : 5,
+      "Leg press" : 6,
+      "Shrugs" : 4,
+      "Leg curls" : 6,
       "Shoulder press" : 4,
+      "Lat pull" : 3,
+      "Seated calf raise" : 6,
+      "Butterflies" : 2,
+      "Chin ups" : 1,
+      "Leg extension" : 6,
+      "Incline bench press" : 2,
+      "Pushups" : 2,
       "Crunches" : 5,
       "Preacher curl" : 1,
-      "Shrugs" : 4
+      "Hammer curl" : 1,
+      "Flies" : 2,
+      "Pull ups" : 1,
+      "Dips" : 1
    },
-   "username_literal" : "Monkeynova",
    "workouts" : [
       [
          "Upper body",
@@ -1822,6 +1822,6 @@
          ]
       ]
    ],
-   "success" : true,
-   "username" : "monkeynova"
+   "username" : "monkeynova",
+   "success" : true
 }
